@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <path d="M 200,100 L 600,100 L 750,300 L 650,400 L 550,300 L 550,700 L 250,700 L 250,300 L 150,400 L 50,300 Z" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL SEAM ALLOWANCE - 1 INCH GRADED (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <path d="M 215,115 L 585,115 L 725,295 L 640,380 L 535,285 L 535,685 L 265,685 L 265,285 L 160,380 L 75,295 Z" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <!-- The Chi (X) Component -->
+    <path d="M 350,230 L 450,370" />
+    <path d="M 450,230 L 350,370" />
+    <!-- The Rho (P) Component -->
+    <path d="M 400,400 L 400,180" />
+    <path d="M 400,180 C 460,180 460,270 400,270" />
+  </g>
+</svg>
