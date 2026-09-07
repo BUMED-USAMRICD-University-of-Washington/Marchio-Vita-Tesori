@@ -1,0 +1,14 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+File_Format: "DXF-AAMA / ASTM"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+
+Production_Files:
+  - File_Name: "VT_Womens_Vest_v1.dxf"
+    Material_Spec: "60_Organic_Hemp_40_Bamboo_Cavalry_Twill_380GSM"
+    Bust_Contour_Darts: "Dual_Princess_Line_Reinforced_Stitching"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch"
+
+  - File_Name: "VT_Mens_Vest_v1.dxf"
+    Material_Spec: "60_Organic_Hemp_40_Bamboo_Cavalry_Twill_380GSM"
+    Closure_Method: "Double_Breasted_Concealed_Hemp_Button_Matrix"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch"
