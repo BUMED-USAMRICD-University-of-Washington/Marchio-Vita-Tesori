@@ -6,6 +6,16 @@ Pattern_Files:
   - File_Name: "VT_Tabernacle_Tunic_v1.dxf"
     Layers: ["Cut_Line_Heavy_Canvas", "Seam_Allowance_1_Inch", "Embroidery_Zone_ChiRho_Front"]
     Stitch_Type: "ISO 4915 Class 301 (Lockstitch for extreme sturdiness)"
+
+    - File_Name: "VT_Tabernacle_Tunic_v2.dxf"
+    Material_Spec: "55_Hemp_45_Bamboo_Blend_Canvas_420GSM"
+    Thread_Spec: "100_Percent_Pure_Hemp_Thread_30Weight"
+    Smart_Node: "Photonic_Memory_Delay_Line_Shoulder_Pocket"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch_Heavy"
+    Layers: 
+      - "Cut_Line_Hemp_Bamboo_Canvas"
+      - "Seam_Allowance_1_Inch_Reinforced"
+      - "Embroidery_Zone_ChiRho_Front"
     
   - File_Name: "VT_Womens_Wrap_Tactical_v1.dxf"
     Layers: ["Cut_Line_Linen", "Pass_Through_Reinforcement", "Sash_Alignment_Markers"]
