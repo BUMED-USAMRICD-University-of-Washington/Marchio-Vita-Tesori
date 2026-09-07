@@ -1,0 +1,36 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 800" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Perfect square cut for the sacred Corporal cloth (20 x 20 inches scaled) -->
+    <rect x="100" y="100" width="600" height="600" rx="4" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL HEM AND STABILIZATION MARGINS (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- Triple-folded flat hem guide for 100% Organic Irish Flax Linen -->
+    <rect x="125" y="125" width="550" height="550" />
+    <!-- 9-Square folding matrix guidelines for traditional liturgical folding protocols -->
+    <path d="M 308,125 L 308,675 M 492,125 L 492,675" />
+    <path d="M 125,308 L 675,308 M 125,492 L 675,492" />
+  </g>
+
+  <!-- LAYER 3: SACRED CALIBRATION & GOLD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_Liturgical_Emblems" fill="none" stroke="#D4AF37" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Perimeter calibration track framing the sacred host placement zone -->
+    <rect x="290" y="290" width="220" height="220" stroke-dasharray="12,6" stroke-width="2" />
+    
+    <!-- Central High-Density Gold Chi-Rho (☧) Sigil centered in the bottom-middle square -->
+    <g transform="translate(0, 185)" stroke-width="5">
+      <path d="M 385,385 L 415,415" />
+      <path d="M 415,385 L 385,415" />
+      <path d="M 400,375 L 400,425" />
+      <path d="M 400,375 C 412,375 412,395 400,395" />
+    </g>
+
+    <!-- Four Corner Cross Seals acting as signal calibration terminals for nested antenna elements -->
+    <path d="M 150,160 L 150,140 M 140,150 L 160,150" />
+    <path d="M 650,160 L 650,140 M 640,150 L 660,150" />
+    <path d="M 150,660 L 150,640 M 140,650 L 160,650" />
+    <path d="M 650,660 L 650,640 M 640,650 L 660,650" />
+  </g>
+</svg>
