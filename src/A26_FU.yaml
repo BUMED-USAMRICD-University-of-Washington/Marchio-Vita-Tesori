@@ -1,0 +1,16 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+File_Format: "DXF-AAMA / ASTM"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+
+Production_Files:
+  - File_Name: "VT_Sacred_Support_Bra_v1.dxf"
+    Material_Spec: "75_Organic_Bamboo_25_Hemp_Interlock_340GSM"
+    Thread_Spec: "100_Percent_Organic_Cotton_Core_Thread"
+    Branding_Layer: "Gold_Cellulose_Thread_ChiRho_Racerback"
+    Stitch_Type: "ISO_4915_Class_602_Coverstitch_For_Stretch"
+    
+  - File_Name: "VT_Sacred_Sculpt_Shorts_v1.dxf"
+    Material_Spec: "75_Organic_Bamboo_25_Hemp_Interlock_340GSM"
+    Waistband_Layers: "Triple_Reinforced_Self_Fabric"
+    Branding_Layer: "Gold_Cellulose_Thread_ChiRho_Center_Back"
+    Stitch_Type: "ISO_4915_Class_607_Flatlock_Seam"
