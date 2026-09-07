@@ -1,0 +1,5 @@
+Layer Architecture & Blueprint Mechanics
+
+-   **Layer 1: `Cutting_Boundary` (Red Line):** Plots a clean, dimensionally stable square silhouette (scaled to standard 20x20 inch field dimensions) optimized for automated laser cutting tables processing your **Vatican Bio-Silk / Organic Hemp-Bamboo** weaves.
+-   **Layer 2: `Seam_Allowance` (Blue Dashed Line):** Encodes the boundary lines for a rigid, triple-folded internal hem. Crucially, it also plots the geometric **9-Square folding matrix** required for traditional Catholic liturgical folding practices, serving as a dual-purpose layout guide for both production sewers and automated ironing rigs.
+-   **Layer 3: `Gold_Liturgical_Emblems` (Metallic Gold Paths):** Coordinates the automated high-density embroidery heads to stitch a stunning **Chi-Rho (☧) sigil** at the bottom-center quadrant using pure gold plant-cellulose thread. It also nests four cross-shaped alignment paths in the corners, which double as termination nodes for underlying smart antenna components.
