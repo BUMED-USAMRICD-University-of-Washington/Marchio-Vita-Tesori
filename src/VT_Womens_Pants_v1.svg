@@ -1,0 +1,23 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 1000" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Tailored Sculpting Women's High-Rise Corporate Cut -->
+    <path d="M 240,80 L 560,80 L 600,340 L 530,940 L 420,940 L 400,500 L 380,940 L 270,940 L 200,340 Z" />
+    <!-- Broad High-Rise Waistband Panel Intersection Line -->
+    <path d="M 220,180 L 580,180" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL SEAM ALLOWANCE - 1 INCH GRADED (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <path d="M 255,95 L 545,95 L 582,335 L 515,925 L 432,925 L 410,515 L 388,925 L 285,925 L 218,335 Z" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Placed centered along the spine line on the high-rise waistband belt -->
+    <path d="M 380,110 L 420,140" />
+    <path d="M 420,110 L 380,140" />
+    <path d="M 400,150 L 400,100" />
+    <path d="M 400,100 C 412,100 412,120 400,120" />
+  </g>
+</svg>
