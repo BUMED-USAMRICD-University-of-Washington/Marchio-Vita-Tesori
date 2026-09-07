@@ -1,0 +1,26 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 1000" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Tapered Athletic Men's Trouser Silhouette with Mechanical Crotch Gusset -->
+    <path d="M 240,80 L 560,80 L 600,350 L 520,920 L 420,920 L 400,500 L 380,920 L 280,920 L 200,350 Z" />
+    <!-- Crossover Chai (ח) Geometric Waistband Configuration Front Lines -->
+    <path d="M 320,80 L 400,160 L 480,80" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL SEAM ALLOWANCE - 1 INCH GRADED (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <path d="M 255,95 L 545,95 L 580,345 L 505,905 L 435,905 L 410,515 L 365,905 L 295,905 L 220,345 Z" />
+    <!-- Mapped Outer Side-Seam Channels for Conductive Silver Silk Threads -->
+    <path d="M 220,345 L 295,905" stroke="#00FFFF" stroke-width="1" />
+    <path d="M 580,345 L 505,905" stroke="#00FFFF" stroke-width="1" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Positioned elegantly over the right side structural hip utility pocket -->
+    <path d="M 500,150 L 540,190" />
+    <path d="M 540,150 L 500,190" />
+    <path d="M 520,205 L 520,135" />
+    <path d="M 520,135 C 535,135 535,165 520,165" />
+  </g>
+</svg>
