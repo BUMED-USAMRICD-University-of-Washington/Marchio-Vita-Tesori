@@ -1,0 +1,24 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 800" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Boxy, high-yield layout designed for maximum nesting efficiency on cutting tables -->
+    <path d="M 260,120 L 540,120 L 660,220 L 580,300 L 520,250 L 520,700 L 280,700 L 280,250 L 220,300 L 140,220 Z" />
+    <!-- Standard box crossover neckline -->
+    <path d="M 350,120 L 400,190 L 450,120" />
+  </g>
+
+  <!-- LAYER 2: ULTRASONIC ASSEMBLY BOUNDARIES (BLUE DASHED LINE) -->
+  <g id="Assembly_Margins" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- 0.5-inch safety buffer for continuous-feed rotary manufacturing machines -->
+    <path d="M 270,135 L 530,135 L 640,225 L 570,285 L 505,235 L 505,685 L 295,685 L 295,235 L 230,285 L 160,225 Z" />
+  </g>
+
+  <!-- LAYER 3: AUTOMATED INK PRINT LAYOUT (METALLIC GOLD) -->
+  <g id="Gold_Print_Logo" fill="none" stroke="#D4AF37" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Placed on the rear neck label area -->
+    <path d="M 385,140 L 415,170" />
+    <path d="M 415,140 L 385,170" />
+    <path d="M 400,180 L 400,130" />
+    <path d="M 400,130 C 412,130 412,150 400,150" />
+  </g>
+</svg>
