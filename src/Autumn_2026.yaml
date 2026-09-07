@@ -1,0 +1,16 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+File_Format: "DXF-AAMA / ASTM (Universal Garment Grading Standard)"
+Color_Profile: "Pantone TCX Cotton Extended (Discreet Military Liturgical Palette)"
+
+Pattern_Files:
+  - File_Name: "VT_Tabernacle_Tunic_v1.dxf"
+    Layers: ["Cut_Line_Heavy_Canvas", "Seam_Allowance_1_Inch", "Embroidery_Zone_ChiRho_Front"]
+    Stitch_Type: "ISO 4915 Class 301 (Lockstitch for extreme sturdiness)"
+    
+  - File_Name: "VT_Womens_Wrap_Tactical_v1.dxf"
+    Layers: ["Cut_Line_Linen", "Pass_Through_Reinforcement", "Sash_Alignment_Markers"]
+    Stitch_Type: "ISO 4915 Class 504 (Overlock edge finishing to prevent fraying)"
+
+  - File_Name: "VT_Chai_Scrubs_Medical_v1.dxf"
+    Layers: ["Cut_Line_Fluid_Repellent_Cotton", "Pocket_Bar_Tack_Coordinates"]
+    Stitch_Type: "ISO 4915 Class 401 (Chainstitch for flexible, heavy-duty utility seams)"
