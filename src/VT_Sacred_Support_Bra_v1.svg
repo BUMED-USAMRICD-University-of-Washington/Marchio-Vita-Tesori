@@ -1,0 +1,23 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 800" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Symmetric Racerback & Crossover Front Construction -->
+    <path d="M 320,150 L 480,150 L 520,250 C 580,300 620,380 620,440 L 620,550 L 180,550 L 180,440 C 180,380 220,300 280,250 Z" />
+    <!-- Crossover Bust Separation Line Inside Panel -->
+    <path d="M 180,320 C 300,380 500,380 620,320" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL SEAM ALLOWANCE - 1 INCH GRADED (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <path d="M 330,165 L 470,165 L 505,255 C 560,305 605,380 605,435 L 605,535 L 195,535 L 195,435 C 195,380 240,305 295,255 Z" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Scaled Chi-Rho centered on the racerback shoulder blade zone -->
+    <path d="M 370,200 L 430,280" />
+    <path d="M 430,200 L 370,280" />
+    <path d="M 400,300 L 400,170" />
+    <path d="M 400,170 C 435,170 435,225 400,225" />
+  </g>
+</svg>
