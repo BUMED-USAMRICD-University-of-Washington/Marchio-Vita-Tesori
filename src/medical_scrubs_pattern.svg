@@ -1,0 +1,34 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 800" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Main Scrub Top Silhouette with Wide Set Short Sleeves -->
+    <path d="M 280,100 L 520,100 L 680,220 L 600,320 L 520,260 L 520,720 L 280,720 L 280,260 L 200,320 L 120,220 Z" />
+    
+    <!-- Crossover V-Neck Line (Geometric Configuration of the Hebrew Letter Chai) -->
+    <path d="M 340,100 L 400,220 L 460,100" />
+    <path d="M 400,220 L 400,260" stroke-width="3" /> <!-- The foundational stabilizing seam step -->
+    
+    <!-- Fluid-Repellent Lower Pocket Placements (Left and Right Flanks) -->
+    <path d="M 160,480 L 260,480 L 260,640 L 160,640 Z" />
+    <path d="M 540,480 L 640,480 L 640,640 L 540,640 Z" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL SEAM ALLOWANCE - 1 INCH GRADED (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- Main Assembly Graded Inset -->
+    <path d="M 295,115 L 505,115 L 655,225 L 590,305 L 505,245 L 505,705 L 295,705 L 295,245 L 210,305 L 145,225 Z" />
+    
+    <!-- Internal Pocket Shield Seams (For Analog Photonic Delay Linings) -->
+    <path d="M 175,495 L 245,495 L 245,625 L 175,625 Z" />
+    <path d="M 555,495 L 625,495 L 625,625 L 555,625 Z" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Centered cleanly on the left chest panel above the crossover fold -->
+    <path d="M 210,160 L 270,240" />
+    <path d="M 270,160 L 210,240" />
+    <path d="M 240,260 L 240,140" />
+    <path d="M 240,140 C 275,140 275,190 240,190" />
+  </g>
+</svg>
