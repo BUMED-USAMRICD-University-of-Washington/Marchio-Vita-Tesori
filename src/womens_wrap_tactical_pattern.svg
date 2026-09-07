@@ -1,0 +1,35 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 1000" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Asymmetric, Double-Layered Wrap Dress Silhouette (Mid-Calf Length) -->
+    <path d="M 300,80 L 500,80 L 580,180 L 680,240 L 600,340 L 540,280 L 540,920 L 260,920 L 260,280 L 200,340 L 120,240 L 220,180 Z" />
+    
+    <!-- Deep Overlapping Front Left Panel Wave -->
+    <path d="M 300,80 C 360,200 480,400 540,550" />
+    
+    <!-- Right Hip Internal Sash Pass-Through Slot (Mechanical Track) -->
+    <path d="M 260,520 L 260,560" stroke-width="4" />
+    
+    <!-- Wide Waist Sash Panel Boundary (Integrated Wrapping Component) -->
+    <path d="M 100,520 L 260,520 L 260,560 L 100,560 Z" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL SEAM ALLOWANCE - 1 INCH GRADED (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- Main Assembly Graded Inset for Pure Bamboo/Silk Interlock Knit -->
+    <path d="M 315,95 L 485,95 L 560,185 L 655,245 L 590,325 L 525,265 L 525,905 L 275,905 L 275,265 L 210,325 L 145,245 L 240,185 Z" />
+    
+    <!-- Conductive Thread Sash Routing Channel Border Markers -->
+    <path d="M 115,535 L 255,535" />
+    <path d="M 115,545 L 255,545" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Centered perfectly on the back neck collar band -->
+    <path d="M 380,110 L 420,150" />
+    <path d="M 420,110 L 380,150" />
+    <path d="M 400,165 L 400,95" />
+    <path d="M 400,95 C 415,95 415,125 400,125" />
+  </g>
+</svg>
