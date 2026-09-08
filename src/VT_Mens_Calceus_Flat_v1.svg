@@ -1,0 +1,36 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1000 600" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED BIOLOGICAL MATERIAL CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Low-Profile, Flat-Soled Men's Classical Calceus Silhouette -->
+    <path d="M 120,450 L 180,280 C 210,220 260,200 320,200 L 460,200 L 480,280 L 760,400 C 820,420 860,450 860,450 Z" />
+    
+    <!-- Intricate Center-Seamed Upper Overlay Panel Path -->
+    <path d="M 480,280 C 520,300 680,340 760,400 L 700,450 C 620,410 480,370 420,350 Z" />
+    
+    <!-- Traditional Crossed Leather Thong Eyelet Allocation Nodes -->
+    <circle cx="240" cy="260" r="5" />
+    <circle cx="300" cy="220" r="5" />
+    <circle cx="360" cy="210" r="5" />
+    <circle cx="420" cy="205" r="5" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL SEAM ALLOWANCE & FLUID BASE TREAD MARGINS (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- 0.5-Inch Graded Assembly Border for Heavy Tanned Cowhide Panels -->
+    <path d="M 135,435 L 192,285 C 220,232 265,215 342,215 L 448,215 L 465,285 L 738,398 C 780,415 815,435 815,435 Z" />
+    
+    <!-- Flat Platform Base Layer Grid Outline -->
+    <path d="M 120,460 L 860,460" stroke-width="2" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- The Master Chi-Rho (☧) Signature of God Centered Cleanly on the Lateral Ankle Panel -->
+    <g transform="translate(-210, -30)">
+      <path d="M 435,210 L 465,240" />
+      <path d="M 465,210 L 435,240" />
+      <path d="M 450,250 L 450,200" />
+      <path d="M 450,200 C 462,200 462,218 450,215" stroke-width="5" />
+    </g>
+  </g>
+</svg>
