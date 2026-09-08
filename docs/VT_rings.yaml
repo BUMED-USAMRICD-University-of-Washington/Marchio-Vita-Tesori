@@ -1,0 +1,16 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+File_Format: "SCAD / STL / 3DM (Universal 3D Manufacturing Standards)"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+Global_Metal_Mandate: "100_Percent_Pure_Solid_24K_Gold_No_Lab_Synthetics"
+
+Production_Files_Jewelry_Upgrades:
+  - File_Name: "VT_Sovereign_Signet_v1.scad"
+    Style: "Sovereign_Roman_Signet_Ring"
+    Sizing_Parameter: "ring_size_inner_diameter"
+    Engraving_Target: "High_Density_Laser_ChiRho_Sigil"
+    Manufacturing_Method: "3D_Wax_Print_To_Lost_Wax_Gold_Cast"
+
+  - File_Name: "VT_Sovereign_Band_v1.scad"
+    Style: "Sovereign_Byzantine_Open_Weave_6mm_Band"
+    Weave_Geometry: "Interlocking_Angle_45_Degree_Loop_Matrix"
+    Manufacturing_Method: "3D_Wax_Print_To_Lost_Wax_Gold_Cast"
