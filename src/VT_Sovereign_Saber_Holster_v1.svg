@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Sovereign_Saber_Holster" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="600px" height="900px" viewBox="0 0 600 900" enable-background="new 0 0 600 900" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED LEATHER CUTTING BOUNDARY (RED LINE) -->
+	<!-- Open-Bottom Tapered Cylindrical Collar Spec for Concentric Hilts -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M180,150h240l-40,550H220L180,150Z"/>
+	<!-- 2.1-Inch High-Stability Reinforced Belt Passage Slot -->
+	<rect x="220" y="80" fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" width="160" height="52" rx="3"/>
+	<!-- Breakaway Safety Retention Thong Flap Hinge Coordinates -->
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M220,150c0-40,160-40,160,0"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FRICTION LINING BOUNDARIES (BLUE DASHED LINE) -->
+	<!-- Graded safety channels enclosing the internal vulcanized natural tree rubber dampening pad -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M195,165h210l-35,520H230
+		L195,165Z"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO EMBROIDERY (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Placed dead center over the front leather stabilization band -->
+	<path fill="none" stroke="#D4AF37" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M270,360l60,60 M330,360l-60,60 M300,435V345 M300,295c12,0,12,18,0,15"/>
+</g>
+</svg>
