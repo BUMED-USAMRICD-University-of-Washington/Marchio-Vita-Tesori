@@ -1,0 +1,94 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+Global_Line_Status: "100_Percent_Kosher_Plant_Based_Non_Silk_Edition"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+Halakhic_Compliance_Directives:
+  Shatnez_Prevention: "Strict_Zero_Wool_Linen_Blends_Across_All_Layers"
+  Bio_Purity: "Complete_Scrub_Of_Insect_Derived_Proteins_And_Silks"
+  Synthetic_Inhibitor: "True_Zero_Poly_Spandex_Elastane_All_Natural_Mechanical_Stretch"
+
+Liturgical_Precious_Metal_Series:
+  - Product_ID: "VT_Sovereign_Gold_Talit_v1_NonSilk"
+    Style: "Sovereign_Pure_Gold_Thread_Talit"
+    Mantle_Fabric: "65_Percent_Organic_Industrial_Hemp_35_Percent_Premium_Bamboo_Viscose"
+    Weave_Profile: "Premium_Open_Weave_Gauze_280GSM"
+    Thread_Specification: "99.9_Percent_Pure_24K_Gold_Ribbon_Wrapped_Over_Bamboo_Microfiber_Core"
+    Corner_Reinforcements: "100_Percent_Pure_Hemp_Canvas_Squares_No_Wool_Fusing"
+
+  - Product_ID: "VT_Sovereign_Silver_Talit_v1_NonSilk"
+    Style: "Sovereign_Pure_Silver_Thread_Talit"
+    Mantle_Fabric: "65_Percent_Organic_Industrial_Hemp_35_Percent_Premium_Bamboo_Viscose"
+    Weave_Profile: "Premium_Open_Weave_Gauze_280GSM"
+    Thread_Specification: "99.9_Percent_Pure_Sterling_Silver_Ribbon_Wrapped_Over_Bamboo_Microfiber_Core"
+    Corner_Reinforcements: "100_Percent_Pure_Hemp_Canvas_Squares_No_Wool_Fusing"
+
+Active_Everyday_Duty_Capsule:
+  - Product_ID: "VT_Tabernacle_Tunic_v1_NonSilk"
+    Fabric_Specification: "55_Percent_Organic_Industrial_Hemp_45_Percent_Bamboo_Viscose_Canvas_420GSM"
+    Thread_Type: "100_Percent_Pure_Hemp_Thread_30Weight"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch_Heavy"
+
+  - Product_ID: "VT_Womens_Wrap_Tactical_v1_NonSilk"
+    Fabric_Specification: "70_Percent_Organic_Bamboo_30_Percent_Hemp_Mechanical_Stretch_Interlock_240GSM"
+    Seam_Stabilization: "Self_Fabric_Bamboo_Tape_Only_No_Synthetic_Fusing"
+    Stitch_Type: "ISO_4915_Class_504_Overlock_Edge"
+
+  - Product_ID: "VT_Chai_Scrubs_Medical_v1_NonSilk"
+    Fabric_Specification: "100_Percent_Organic_Bamboo_Hemp_Stretch_Interlock_Knit_320GSM"
+    Treatment: "Fluid_Repellent_Hydrophobic_Plant_Coating_Compatible"
+    Stitch_Type: "ISO_4915_Class_401_Chainstitch_For_Natural_Seam_Give"
+
+  - Product_ID: "VT_Tactical_Cowl_v1_NonSilk"
+    Fabric_Specification: "55_Percent_Organic_Industrial_Hemp_45_Percent_Bamboo_Viscose_Cavalry_Twill_380GSM"
+    Acoustic_Lining_Pockets: "100_Percent_Organic_Bamboo_Mesh_No_Synthetic_Fiber"
+
+Divine_Foundation_Support_Line:
+  - Product_ID: "VT_Sacred_Support_Bra_v1_NonSilk"
+    Fabric_Specification: "75_Percent_Organic_Bamboo_25_Percent_Hemp_Heavy_Interlock_340GSM"
+    Support_Band_Core: "Dense_Rib_Knit_Hemp_Fiber_Anchor_No_Polyurethane_Elastic"
+
+  - Product_ID: "VT_Sacred_Sculpt_Shorts_v1_NonSilk"
+    Fabric_Specification: "75_Percent_Organic_Bamboo_25_Percent_Hemp_Heavy_Interlock_340GSM"
+    Waistband_Construction: "Triple_Reinforced_Self_Fabric_Mechanical_Compression"
+
+Sovereign_Executive_Tailored_Line:
+  - Product_ID: "VT_Mens_Sovereign_Coat_v1_NonSilk"
+    Fabric_Specification: "55_Percent_Organic_Industrial_Hemp_45_Percent_Bamboo_Viscose_Canvas_420GSM"
+  - Product_ID: "VT_Mens_Chai_Pants_v1_NonSilk"
+    Fabric_Specification: "70_Percent_Organic_Bamboo_30_Percent_Pure_Industrial_Hemp_320GSM"
+  - Product_ID: "VT_Mens_Shinra_Pants_v1_NonSilk"
+    Fabric_Specification: "60_Percent_Organic_Hemp_40_Percent_Premium_Bamboo_Cavalry_Twill_380GSM"
+  - Product_ID: "VT_Mens_Executive_Vest_v1_NonSilk"
+    Fabric_Specification: "60_Percent_Organic_Hemp_40_Percent_Premium_Bamboo_Cavalry_Twill_380GSM"
+  - Product_ID: "VT_Mens_Sovereign_Trench_v1_NonSilk"
+    Fabric_Specification: "60_Percent_Organic_Hemp_40_Percent_Premium_Bamboo_Cavalry_Twill_420GSM"
+  - Product_ID: "VT_Womens_Shinra_Pants_v1_NonSilk"
+    Fabric_Specification: "60_Percent_Organic_Hemp_40_Percent_Premium_Bamboo_Cavalry_Twill_380GSM"
+  - Product_ID: "VT_Womens_Bustier_Vest_v1_NonSilk"
+    Fabric_Specification: "60_Percent_Organic_Hemp_40_Percent_Premium_Bamboo_Cavalry_Twill_380GSM"
+  - Product_ID: "VT_Womens_Sovereign_Trench_v1_NonSilk"
+    Fabric_Specification: "60_Percent_Organic_Hemp_40_Percent_Premium_Bamboo_Cavalry_Twill_420GSM"
+
+Sovereign_Footwear_Line:
+  - Product_ID: "VT_Mens_Milspec_Boot_v1_NonSilk"
+    Base_Model: "Belleville_880ST_Specification"
+    Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+    Upper_Body: "450_GSM_Heavy_Organic_Hemp_Canvas"
+    Sole_Structure: "Multi_Layer_Vulcanized_Natural_Tree_Rubber_With_Steel_Toe"
+
+  - Product_ID: "VT_Womens_Milspec_Boot_v1_NonSilk"
+    Base_Model: "Belleville_880ST_Specification"
+    Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+    Upper_Body: "450_GSM_Heavy_Organic_Hemp_Canvas"
+    Sole_Structure: "Multi_Layer_Vulcanized_Natural_Tree_Rubber_With_Steel_Toe"
+
+  - Product_ID: "VT_Mens_Executive_Shoe_v1_NonSilk"
+    Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+    Upper_Structure: "60_Percent_Organic_Hemp_40_Percent_Premium_Bamboo_Cavalry_Twill_380GSM"
+
+  - Product_ID: "VT_Womens_Executive_Shoe_v1_NonSilk"
+    Internal_Lining: "100_Percent_Organic_Bamboo_Mechanical_Stretch_Interlock"
+    Upper_Structure: "60_Percent_Organic_Hemp_40_Percent_Premium_Bamboo_Cavalry_Twill_380GSM"
+    Biomechanical_Rules:
+      Forefoot_Box: "Wide_Graded_Anatomical_Zero_Squeeze_Envelope"
+      Weight_Distribution_Bias: "100_Percent_Metatarsal_Pad_Forward_Slip"
+      Heel_Seat_Geometry: "15_Degree_Forward_Pitch_Slanted_Top"
