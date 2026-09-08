@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Sovereign_Judge_Belt_Holster" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="1100px" viewBox="0 0 800 1100" enable-background="new 0 0 800 1100" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED BIOLOGICAL LEATHER MATERIAL CUTTING BOUNDARY (RED LINE) -->
+	<!-- Form-molded elongated profile matching the massive cylinder and barrel frame of the Taurus Judge -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M 220,150 L 580,150 C 620,150 600,280 540,480 L 400,1020 L 280,1020 L 200,480 Z" />
+	<!-- Thumb-Break Retention Safety Flap Extension Trim Path -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M 220,150 C 180,100 200,50 240,50 L 280,150" />
+	<!-- Integrated 2.1-Inch High-Stability Belt Tunnel Loop Slots (Rear Plate) -->
+	<rect x="250" y="80" fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" width="45" height="22" rx="3"/>
+	<rect x="505" y="80" fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" width="45" height="22" rx="3"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: DOUBLE-NEEDLE SADDLE LOCKSTITCH MARGINS (BLUE DASHED LINE) -->
+	<!-- Graded 0.5-inch heavy edge stitch guide channels for 5mm thick CIST biological leather -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M 235,165 L 565,165 C 580,265 585,465 385,995 L 295,995 L 215,465 Z" />
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (PANTONE 16-0947 TCX GOLD EARTH) -->
+	<!-- Master Signature of God monogram embroidered elegantly over the structural cylinder shield plate -->
+	<g transform="translate(10, 110)">
+		<path fill="none" stroke="#D4AF37" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M350,230l100,140 M450,230L350,370 M400,400V180 M400,180c60,0,60,90,0,90"/>
+	</g>
+</g>
+</svg>
