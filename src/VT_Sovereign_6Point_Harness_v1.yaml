@@ -1,0 +1,16 @@
+  - Product_ID: "VT_Sovereign_6Point_Harness_v1_NonSilk"
+    Style: "Sovereign_6Point_Parachute_And_Utility_Harness"
+    Pattern_File: "VT_Sovereign_6Point_Harness_v1.dxf"
+    Vector_Layout: "VT_Sovereign_6Point_Harness_v1.svg"
+    Sizing_Grading: "Universal_Tactical_Load_Bearing_Scale_Matrix"
+    Fabric_Specification: "4_Ply_450_GSM_Heavy_Organic_Hemp_Canvas_Webbing"
+    Biomechanical_Rules:
+      Load_Distribution: "6_Point_Symmetrical_Sling_Prevents_Pelvic_Artery_Compression"
+      Anatomical_Pouch: "Wide_Graded_Anatomical_Zero_Squeeze_Leg_Loops"
+      Static_Bleedoff: "20_Percent_Silver_Infused_Stitch_Rows_Dissipate_Deployment_Friction_Static"
+    Hardware_Rigging_Spec:
+      Dorsal_Attachment: "Forged_Solid_Brass_Triangle_Plate_Bypasses_STEX_Verification_Sandbox"
+      Connector_Compatibility: "Modular_Parachute_Riser_Utility_Cargo_Hooks_Locking_Carabiners"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Heavy_Duty_Double_Lockstitch"
+      Thread_Specification: "3_Row_Parallel_99.9_Percent_Silver_Plated_Hemp_Thread"
