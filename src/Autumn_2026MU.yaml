@@ -1,0 +1,16 @@
+  - Product_ID: "VT_Mens_Sacred_Underwear_v1_NonSilk"
+    Style: "Sovereign_Anatomical_Support_Sports_Briefs"
+    Pattern_File: "VT_Mens_Sacred_Underwear_v1.dxf"
+    Vector_Layout: "VT_Mens_Sacred_Underwear_v1.svg"
+    Sizing_Grading: "Standard_USMC_Duty_Brief_Matrix"
+    Pouch_Architecture: "3D_Suspended_Crescent_Pocket_With_Hemp_Anchor"
+    Biomechanical_Rules:
+      Anatomical_Separation: "Forced_Upward_Lift_Away_From_Thighs_Anti_Chafe"
+      Core_Compression: "Zero_Synthetic_Elastic_Heavy_Rib_Knit_Support_Band"
+    Material_Composition:
+      Shorts_Chassis: "70_Percent_Organic_Bamboo_30_Percent_Hemp_Heavy_Interlock_340GSM"
+      Internal_Pouch_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+      Lower_Suspension_Anchor: "100_Percent_Organic_High_Density_Hemp_Rib_Knit"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_607_Flatlock_Seam" # Smooth flat construction against skin
+      Thread_Specification: "100_Percent_Soft_Spun_Organic_Cotton_Core_Thread"
