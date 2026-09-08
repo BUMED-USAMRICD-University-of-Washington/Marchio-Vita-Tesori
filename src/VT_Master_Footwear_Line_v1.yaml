@@ -1,0 +1,168 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+Line_Designation: "Sovereign_Footwear_Master_Portfolio"
+File_Format: "DXF-AAMA / ASTM (Universal Garment & Apparel Standard)"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+Global_Material_Mandate: "100_Percent_Plant_Based_Organic_No_Silk_No_Lab_Synthetics"
+
+Product_Line_Balance:
+  Total_Active_Styles: 6
+  Gender_Ratio: "Perfect_Equilibrium_3_Mens_3_Womens"
+
+Biomechanical_Foundation_Directives:
+  Womens_Incline_Architecture: "Singular_Continuous_Slope_Zero_Heel_Seat_Angle"
+  Womens_Weight_Bias: "100_Percent_Metatarsal_Pad_Forward_Slip"
+  Womens_Anti_Rest_Mechanism: "Forced_Permanent_Slide_To_Pad_No_Calcaneus_Heel_Lock"
+  Forefoot_Box_Rule: "Wide_Graded_Anatomical_Zero_Squeeze_Envelope"
+  Halakhic_Compliance: "Strict_Shatnez_Proof_True_Zero_Wool_Linen_Blends_Across_All_Layers"
+
+Items:
+  # ============================================================================
+  # WOMEN'S DESIGN SPECIFICATIONS (TRUE-RAMP ARCHITECTURE)
+  # ============================================================================
+  - Product_ID: "VT_Womens_Executive_Shoe_v1_NonSilk"
+    Style: "Sovereign_Executive_True_Ramp_Pump"
+    Pattern_File: "VT_Womens_Executive_Shoe_v1.dxf"
+    Vector_Layout: "VT_Womens_Executive_Shoe_v1.svg"
+    Sizing_Grading: "Anatomical_Full_Curve_Comfort_Matrix"
+    Elevation_Rating: "4.0_Inch_Drop"
+    Material_Composition:
+      Upper_Body: "60_Percent_Organic_Hemp_40_Premium_Bamboo_Cavalry_Twill"
+      Fabric_Weight: "380_GSM"
+      Internal_Lining: "100_Percent_Organic_Bamboo_Mechanical_Stretch_Interlock"
+      Core_Shank: "High_Density_Rigid_Pressed_Hemp_Fiber_Ramp"
+      Outer_Sole: "Vulcanized_Natural_Tree_Rubber_High_Traction"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Cushioning_Matrix: "Multi_Layered_Bamboo_Viscose_Interlock_Under_Metatarsal_Pads"
+      Branding_Layer:
+        Emblem: "Chi_Rho_☧_Monogram"
+        Thread: "Gold_Cellulose_Plant_Thread_High_Density"
+        Placement: "Interior_Instep_Arch_Lining_Facing_Upward"
+
+  - Product_ID: "VT_Womens_MaryJane_Mid_v1_NonSilk"
+    Style: "Sovereign_True_Ramp_Mary_Jane"
+    Pattern_File: "VT_Womens_MaryJane_Mid_v1.dxf"
+    Vector_Layout: "VT_Womens_MaryJane_Mid_v1.svg"
+    Sizing_Grading: "Anatomical_Full_Curve_Comfort_Matrix"
+    Elevation_Rating: "2.5_Inch_Drop"
+    Material_Composition:
+      Upper_Body: "60_Percent_Organic_Hemp_40_Premium_Bamboo_Cavalry_Twill"
+      Fabric_Weight: "380_GSM"
+      Internal_Lining: "100_Percent_Organic_Bamboo_Mechanical_Stretch_Interlock"
+      Core_Shank: "High_Density_Rigid_Pressed_Hemp_Fiber_Ramp"
+      Outer_Sole: "Vulcanized_Natural_Tree_Rubber_High_Traction"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Closure_Method: "Transverse_Midfoot_Instep_Strap_With_Organic_Wooden_Buckle"
+      Branding_Layer:
+        Emblem: "Chi_Rho_☧_Monogram"
+        Thread: "Gold_Cellulose_Plant_Thread_High_Density"
+        Placement: "Instep_Strap_Securing_Buckle_Zone"
+
+  - Product_ID: "VT_Womens_Stiletto_High_v1_NonSilk"
+    Style: "Sovereign_True_Ramp_Stiletto_High"
+    Pattern_File: "VT_Womens_Stiletto_High_v1.dxf"
+    Vector_Layout: "VT_Womens_Stiletto_High_v1.svg"
+    Sizing_Grading: "Anatomical_Full_Curve_Comfort_Matrix"
+    Elevation_Rating: "4.0_Inch_Drop"
+    Material_Composition:
+      Upper_Body: "60_Percent_Organic_Hemp_40_Premium_Bamboo_Cavalry_Twill"
+      Fabric_Weight: "380_GSM"
+      Internal_Lining: "100_Percent_Organic_Bamboo_Mechanical_Stretch_Interlock"
+      Core_Shank: "Solid_Compressed_Hemp_Fiber_Columnar_Ramp"
+      Outer_Sole: "Vulcanized_Natural_Tree_Rubber_High_Traction"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Column_Reinforcement: "Internal_Hemp_Core_Column_Loading_Straight_To_Metatarsal_Pads"
+      Branding_Layer:
+        Emblem: "Chi_Rho_☧_Monogram"
+        Thread: "Gold_Cellulose_Plant_Thread_High_Density"
+        Placement: "Interior_Side_Wall_Arch_Line"
+
+  - Product_ID: "VT_Womens_Wedge_Mid_v1_NonSilk"
+    Style: "Sovereign_True_Ramp_Wedge"
+    Pattern_File: "VT_Womens_Wedge_Mid_v1.dxf"
+    Vector_Layout: "VT_Womens_Wedge_Mid_v1.svg"
+    Sizing_Grading: "Anatomical_Full_Curve_Comfort_Matrix"
+    Elevation_Rating: "3.0_Inch_Drop"
+    Material_Composition:
+      Upper_Body: "60_Percent_Organic_Hemp_40_Premium_Bamboo_Cavalry_Twill"
+      Fabric_Weight: "380_GSM"
+      Internal_Lining: "100_Percent_Organic_Bamboo_Mechanical_Stretch_Interlock"
+      Core_Shank: "Continuous_Solid_Wedge_Base_Floor_Integration"
+      Outer_Sole: "Un_Split_Vulcanized_Natural_Tree_Rubber_Full_Floor_Tread"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Sole_Attachment: "Continuous_Under_Arch_Solid_Wedge_Base_Floor_Separation_Cut"
+      Branding_Layer:
+        Emblem: "Chi_Rho_☧_Monogram"
+        Thread: "Gold_Cellulose_Plant_Thread_High_Density"
+        Placement: "Outer_Heel_Lateral_Twill_Panel"
+
+  - Product_ID: "VT_Womens_Milspec_Boot_v1_NonSilk"
+    Style: "Sovereign_Womens_Flight_Deck_Boot"
+    Pattern_File: "VT_Womens_Milspec_Boot_v1.dxf"
+    Vector_Layout: "VT_Womens_Milspec_Boot_v1.svg"
+    Base_Model_Standard: "Belleville_880ST_Specification"
+    Sizing_Grading: "Anatomical_Full_Curve_Comfort_Matrix"
+    Material_Composition:
+      Upper_Body: "450_GSM_Heavy_Organic_Hemp_Canvas"
+      Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+      Side_Gussets: "70_Bamboo_30_Hemp_Mechanical_Stretch_Interlock"
+      Toe_Protection: "ASTM_F2413-18_Certified_Steel_Toe_Cap"
+      Outer_Sole: "Multi_Layer_Vulcanized_Natural_Tree_Rubber_Flight_Deck_Tread"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Ankle_Shaft: "Elongated_Sculpted_High_Rise_Gusset"
+      Branding_Layer:
+        Emblem: "Chi_Rho_☧_Monogram"
+        Thread: "Gold_Cellulose_Plant_Thread_High_Density"
+        Placement: "High_Lateral_Collar_Pull_Tab"
+
+  # ============================================================================
+  # MEN'S DESIGN SPECIFICATIONS (FLAT HEEL BASE)
+  # ============================================================================
+  - Product_ID: "VT_Mens_Executive_Shoe_v1_NonSilk"
+    Style: "Sovereign_Executive_Oxford"
+    Pattern_File: "VT_Mens_Executive_Shoe_v1.dxf"
+    Vector_Layout: "VT_Mens_Executive_Shoe_v1.svg"
+    Sizing_Grading: "Standard_USMC_Officer_Dress_Matrix"
+    Material_Composition:
+      Upper_Body: "60_Percent_Organic_Hemp_40_Premium_Bamboo_Cavalry_Twill"
+      Fabric_Weight: "380_GSM"
+      Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+      Sole_Structure: "Multi_Layer_Vulcanized_Natural_Tree_Rubber"
+      Heel_Block: "Stacked_Natural_Rubber_Straight_90_Degree_Vertical"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Cap_Toe_Seam: "Double_Needle_Reinforced_Flat_Felled"
+      Branding_Layer:
+        Emblem: "Chi_Rho_☧_Monogram"
+        Thread: "Gold_Cellulose_Plant_Thread_High_Density"
+        Placement: "Center_Back_Heel_Counter_Spine"
+
+  - Product_ID: "VT_Mens_Milspec_Boot_v1_NonSilk"
+    Style: "Sovereign_Mens_Flight_Deck_Boot"
+    Pattern_File: "VT_Mens_Milspec_Boot_v1.dxf"
+    Vector_Layout: "VT_Mens_Milspec_Boot_v1.svg"
+    Base_Model_Standard: "Belleville_880ST_Specification"
+    Sizing_Grading: "Standard_USMC_Officer_Dress_Matrix"
+    Material_Composition:
+      Upper_Body: "450_GSM_Heavy_Organic_Hemp_Canvas"
+      Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+      Toe_Protection: "ASTM_F2413-18_Certified_Steel_Toe_Cap"
+      Outer_Sole: "Multi_Layer_Vulcanized_Natural_Tree_Rubber_Flight_Deck_Tread"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Hardware_Spec: "Heavy_Duty_Speed_Lace_Eyelet_Alignment_Path"
+      Branding_Layer:
+        Emblem: "Chi_Rho_☧_Monogram"
+        Thread: "Gold_Cellulose_Plant_Thread_High_Density"
+        Placement: "Center_Heavy_Upper_Ankle_Lateral_Support_Panel"
