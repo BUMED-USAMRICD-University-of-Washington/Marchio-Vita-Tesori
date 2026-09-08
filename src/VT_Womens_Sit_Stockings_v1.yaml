@@ -1,0 +1,14 @@
+  - Product_ID: "VT_Womens_Sit_Stockings_v1_NonSilk"
+    Style: "Sovereign_Companion_Sit_Support_Hosiery"
+    Pattern_File: "VT_Womens_Sit_Stockings_v1.dxf"
+    Vector_Layout: "VT_Womens_Sit_Stockings_v1.svg"
+    Sizing_Grading: "Proportional_Thigh_High_Hosiery_Scale_Matrix"
+    Fabric_Specification: "85_Percent_Organic_Bamboo_Viscose_15_Percent_Fine_Hemp_MicroMesh"
+    Biomechanical_Rules:
+      Left_Knee_Cradle: "Interior_Right_Hand_Tatami_Fill_Stitch_Wraps_Patella_From_Left"
+      Right_Knee_Cradle: "Interior_Left_Hand_Tatami_Fill_Stitch_Wraps_Patella_From_Right"
+      Textured_Calluses: "Localized_3D_Puff_Foam_Underlays_Replicate_Metatarsal_Scan_Topography"
+      Retention_Lock: "Concentric_Internal_Tracks_Of_Natural_Tree_Sap_Latex_Grip"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_602_Coverstitch_For_Seamless_Toe_Closure"
+      Thread_Specification: "100_Percent_Soft_Spun_Organic_Cotton_Core_Thread"
