@@ -1,0 +1,21 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1000 600" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED MATERIAL CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Continuous Solid Wedge Base Silhouette -->
+    <path d="M 160,460 L 440,140 L 460,260 L 760,380 C 800,400 840,440 840,460 Z" />
+    <!-- Continuous Under-Arch Solid Wedge Base Floor Separation Cut -->
+    <path d="M 160,460 L 760,380" stroke-width="3" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL CONTINUOUS SHANK MARGINS (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- Graded Inset for the Solid Plant-Based Interlock Lining Profile -->
+    <path d="M 175,445 L 428,155 L 448,245 L 738,365 C 770,385 795,425 795,445 Z" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Placed centered along the outer heel lateral twill panel -->
+    <path d="M 190,260 L 220,290 M 220,260 L 190,290 M 205,300 L 205,250" />
+  </g>
+</svg>
