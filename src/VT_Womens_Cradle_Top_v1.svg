@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Cradle_Top" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="1000px" viewBox="0 0 800 1000" enable-background="new 0 0 800 1000" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M240,100h320l60,150l-40,200v450H220V450
+		l-40-250L240,100Z"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M255,115h290l50,135l-35,185
+		v430H235V435l-35-185L255,115Z"/>
+</g>
+<g id="Embroidered_Hand_Placements">
+	<!-- LAYER 3: INNER-FACING TEXTURED HAND RICAMO TARGETS (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Left Hand Matrix wrapping toward center lower belly -->
+	<path fill="none" stroke="#D4AF37" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M260,750 c50-30,100-20,120,40 M300,720 c40-20,80-10,90,30 M330,680 c30-20,60,0,70,40"/>
+	<!-- Right Hand Matrix wrapping toward center lower belly -->
+	<path fill="none" stroke="#D4AF37" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M540,750 c-50-30-100-20-120,40 M500,720 c-40-20-80-10-90,30 M470,680 c-30-20-60,0-70,40"/>
+</g>
+</svg>
