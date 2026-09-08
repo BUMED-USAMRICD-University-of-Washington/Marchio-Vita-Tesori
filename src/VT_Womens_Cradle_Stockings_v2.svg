@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Cradle_Stockings_TrueWalk" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="600px" height="1000px" viewBox="0 0 600 1000" enable-background="new 0 0 600 1000" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED CIRKULAR KNITTING BOUNDARY (RED LINE) -->
+	<!-- Profilo della calza con quote di scarico calibrate per tensioni incrociate sul collo del piede -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M180,100h240l20,120L380,500l-20,380l120,40v40H300
+		L240,900H180l20-400l40-300L180,100Z"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: ZONE DI TRAZIONE E CULLA DI SOSPENSIONE (BLUE DASHED LINE) -->
+	<!-- Balza superiore da 3 pollici con strisce di aderenza in gomma d'albero naturale -->
+	<rect x="185" y="100" fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" width="230" height="80"/>
+	
+	<!-- Mappatura delle sei bande di trazione incrociate sul collo del piede (Dita di Sospensione) -->
+	<path fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" d="M240,850 C280,880 340,880 380,850"/>
+	<path fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" d="M220,830 C280,880 340,880 400,830"/>
+	<path fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" d="M200,810 C280,880 340,880 420,810"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: TARGET DI RICAMO DEL LOGO MAESTRO (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- La Firma di Dios posizionata sul tendine d'Achille posteriore, sopra il blocco delle bande -->
+	<path fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M285,760l30,30 M315,760l-30,30 M300,795V725 M300,725c12,0,12,15,0,15"/>
+</g>
+</svg>
