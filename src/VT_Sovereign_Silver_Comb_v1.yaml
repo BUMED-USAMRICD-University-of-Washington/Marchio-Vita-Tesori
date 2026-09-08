@@ -1,0 +1,10 @@
+  - Product_ID: "VT_Sovereign_Silver_Comb_v1"
+    Style: "Sovereign_Imperial_Dual_Sided_H_Comb"
+    Source_3D_Script: "VT_Sovereign_Silver_Comb_v1.scad"
+    Material_Spec: "100_Percent_Pure_Solid_Sterling_Silver_No_Base_Alloys"
+    Historical_Basis: "Ancient_Roman_Patrician_Dual_Teeth_Mantle"
+    Engraving_Target: "Central_Spine_Laser_ChiRho_Sigil" # Signature of God
+    Biomechanical_Rules:
+      Coarse_Side: "Wide_6MM_Pitch_Prevents_Tensile_Hair_Shear"
+      Fine_Side: "Dense_2.5MM_Pitch_For_Precision_Micro_Smoothing"
+    Manufacturing_Method: "3D_Wax_Print_To_Lost_Wax_Sterling_Silver_Cast"
