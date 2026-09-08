@@ -1,0 +1,36 @@
+  - Product_ID: "VT_Mens_Boat_Shoe_v1_NonSilk"
+    Style: "Sovereign_CIST_Leather_Deck_Oxfords"
+    Pattern_File: "VT_Mens_Boat_Shoe_v1.dxf"
+    Vector_Layout: "VT_Mens_Boat_Shoe_v1.svg"
+    Sizing_Grading: "Standard_USMC_Officer_Dress_Matrix"
+    Material_Composition:
+      Upper_Body_Shell: "100_Percent_CIST_Biopharma_Vegetable_Tanned_Cowhide_Leather"
+      Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+      Closure_Strap: "Continuous_360_Degree_CIST_Leather_Collar_Thong"
+      Outer_Sole: "Siped_High_Traction_Vulcanized_Natural_Tree_Rubber_Deck_Sole"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Moc_Toe_Seam: "Heavy_Hand_Couched_Hemp_Cord_Stitch"
+      Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
+
+  - Product_ID: "VT_Womens_Boat_Shoe_v1_NonSilk"
+    Style: "Sovereign_Womens_True_Ramp_Deck_Oxfords"
+    Pattern_File: "VT_Womens_Boat_Shoe_v1.dxf"
+    Vector_Layout: "VT_Womens_Boat_Shoe_v1.svg"
+    Sizing_Grading: "Anatomical_Full_Curve_Comfort_Matrix"
+    Elevation_Rating: "3.5_Inch_Continuous_Drop"
+    Material_Composition:
+      Upper_Body_Shell: "100_Percent_CIST_Biopharma_Vegetable_Tanned_Cowhide_Leather"
+      Internal_Lining: "100_Percent_Organic_Bamboo_Mechanical_Stretch_Interlock"
+      Core_Shank: "Continuous_Solid_Wedge_Base_Floor_Integration"
+      Closure_Strap: "Continuous_360_Degree_CIST_Leather_Collar_Thong"
+      Outer_Sole: "Siped_High_Traction_Vulcanized_Natural_Tree_Rubber_Wedge_Sole"
+    Biomechanical_Rules:
+      Forefoot_Box: "Wide_Graded_Anatomical_Zero_Squeeze_Envelope"
+      Incline_Architecture: "Singular_Continuous_Slope_Zero_Heel_Seat_Angle"
+      Weight_Distribution_Bias: "100_Percent_Metatarsal_Pad_Forward_Slip"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
