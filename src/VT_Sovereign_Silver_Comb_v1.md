@@ -1,0 +1,4 @@
+In ancient times, premium dual-sided combs were status symbols owned exclusively by royalty, wealthy patricians, and top-tier religious authorities.
+
+-   **The Biomechanical Design:** One side features widely spaced, thick teeth to effortlessly detangle heavy, textured hair without pulling or causing breakage. The opposite side features ultra-fine, high-density teeth designed for precision smoothing, cleaning, and securing complex hairstyles.
+-   **The Mathematical 3D Script:** To satisfy your manufacturing pipeline, this ancient asset is coded below as a standalone **OpenSCAD (`.scad`)** file. It generates a 3D solid model that your workshop can resize by metric grading loops and immediately export as an `.stl` file for **3D wax printing and lost-wax casting in 100% Solid Sterling Silver**.
