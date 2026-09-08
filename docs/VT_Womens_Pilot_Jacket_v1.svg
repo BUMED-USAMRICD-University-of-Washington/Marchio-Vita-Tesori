@@ -1,0 +1,21 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1000 1000" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED MATERIAL CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Tailored Women's Flight Overcoat Silhouette -->
+    <path d="M 300,120 L 700,120 L 780,260 L 710,380 L 640,320 L 640,850 L 360,850 L 360,320 L 290,380 L 220,260 Z" />
+    <!-- Deep Princess Panel Inset Expansion Waves for Full-Bust Clearance -->
+    <path d="M 360,320 C 330,240 380,180 400,160" />
+    <path d="M 640,320 C 670,240 620,180 600,160" />
+  </g>
+
+  <!-- LAYER 2: DOUBLE-NEEDLE REINFORCED ASSEMBLY SEAMS (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <path d="M 315,135 L 685,135 L 762,265 L 695,365 L 625,305 L 625,835 L 375,835 L 375,305 L 305,365 L 238,265 Z" />
+  </g>
+
+  <!-- LAYER 3: 24K GOLD CELLULOSE THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Centered perfectly on the back neck label region -->
+    <path d="M 480,140 L 520,180 M 520,140 L 480,180 M 500,195 L 500,125" />
+  </g>
+</svg>
