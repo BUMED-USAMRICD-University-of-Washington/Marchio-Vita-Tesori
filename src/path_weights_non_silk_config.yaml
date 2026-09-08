@@ -1,0 +1,85 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+Configuration_Target: "Industrial_Multi_Head_Embroidery_Automation_Non_Silk_Edition"
+Repository_Pipeline: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+Global_Thread_Standard: "100_Percent_Organic_Cellulose_Gold_Metallic_Thread_No_Lab_Synthetics"
+
+Automated_Sewing_Head_Global_Settings:
+  Machine_Speed_RPM_Limit: 620                      # Dropped 30 RPM to accommodate plant-jersey fiber shifting
+  Needle_Specification: "Oversized_Ballpoint_RG_90_14" # Keeps loops intact on the pure bamboo interlock base
+  Base_Fabric_Stabilization: "Dual_Layer_Water_Soluble_Hemp_Backing_No_Synthetic_Fusing"
+  Upper_Thread_Tension_Grams: 105                  # Decreased tension to match pure plant fiber tensile limits
+  Lower_Bobbin_Tension_Grams: 20                   # Balanced lower pull to ensure zero puckering on cavalry twill
+
+9_Panel_Matrix_Path_Weights_Non_Silk:
+  - Panel_ID: "Panel_01_Cooks"
+    Symbol: "Harvest_Wheat_Geometric_Target"
+    Trace_Type: "Run_Stitch"
+    Path_Weight_Points: 4.0                        # 0.4mm physical line thickness
+    Stitch_Length_MM: 2.5
+    Density_Stitches_Per_CM: 40
+    Color_Code: "Pantone_16-0947_TCX_Gold_Earth"
+
+  - Panel_ID: "Panel_02_Farmers"
+    Symbol: "Agriculture_Pathology_Field_Lines"
+    Trace_Type: "Triple_Run_Stitch"
+    Path_Weight_Points: 6.0                        # 0.6mm physical line thickness
+    Stitch_Length_MM: 2.2                          # Shortened slightly to lock into the pure plant weave
+    Density_Stitches_Per_CM: 52
+    Color_Code: "Pantone_16-0947_TCX_Gold_Earth"
+
+  - Panel_ID: "Panel_03_Doctors"
+    Symbol: "The_Structural_Chai_Alignment"
+    Trace_Type: "Satin_Stitch"
+    Path_Weight_Points: 12.0                       # 1.2mm physical column width
+    Stitch_Length_MM: 4.2                          # Calibrated length for pure organic bamboo stretch
+    Density_Stitches_Per_MM: 4.0                   # Slightly lower density to avoid cutting the plant cells
+    Pull_Compensation_Percent: 16                  # Increased from 12% to absorb maximum bamboo stretch give
+
+  - Panel_ID: "Panel_04_Morgue"
+    Symbol: "Disposable_Containment_Shield"
+    Trace_Type: "Dashed_Run_Stitch"
+    Path_Weight_Points: 3.0                        # 0.3mm fine line vector path
+    Stitch_Length_MM: 3.5
+    Density_Stitches_Per_CM: 30
+    Color_Code: "Pantone_19-4007_TCX_Anthracite_Muted"
+
+  - Panel_ID: "Panel_05_Police"
+    Symbol: "Authoritative_Seam_Cross_Row"
+    Trace_Type: "Satin_Stitch"
+    Path_Weight_Points: 10.0                       # 1.0mm column width
+    Stitch_Length_MM: 3.8
+    Density_Stitches_Per_MM: 4.5
+    Pull_Compensation_Percent: 8                   # Rigid 8% locked settings for the stiff hemp canvas
+
+  - Panel_ID: "Panel_06_Federal_LE"
+    Symbol: "Precision_Vertical_Twill_Lines"
+    Trace_Type: "Micro_Run_Stitch"
+    Path_Weight_Points: 2.0                        # 0.2mm ultra-fine structural accent
+    Stitch_Length_MM: 1.8
+    Density_Stitches_Per_CM: 60
+    Color_Code: "Pantone_19-0303_TCX_Jet_Black"
+
+  - Panel_ID: "Panel_07_Student"
+    Symbol: "Balanced_Foundation_Geometric_Base"
+    Trace_Type: "Triple_Run_Stitch"
+    Path_Weight_Points: 5.0                        # 0.5mm clean boundary ring
+    Stitch_Length_MM: 2.2
+    Density_Stitches_Per_CM: 45
+    Color_Code: "Pantone_16-0947_TCX_Gold_Earth"
+
+  - Panel_ID: "Panel_08_Combat_Medic"
+    Symbol: "The_880ST_Steel_Toe_Cross_Shield"
+    Trace_Type: "Satin_Stitch"
+    Path_Weight_Points: 14.0                       # 1.4mm high-visibility bold column
+    Stitch_Length_MM: 4.8
+    Density_Stitches_Per_MM: 4.6
+    Pull_Compensation_Percent: 12                  # Increased to stabilize the pure bamboo-viscose boot gussets
+
+  - Panel_ID: "Panel_09_Signature_Of_God"
+    Symbol: "High_Density_Chi_Rho_Chrismon"        # Reconstructing master EPS asset for all-plant
+    Trace_Type: "Heavy_Tatami_Fill_With_Satin_Border"
+    Path_Weight_Points: 24.0                       # Heavy 2.4mm master column border
+    Underlay_Pattern: "Double_Zig_Zag_With_Contour" # Enhanced underlay to anchor to the mechanical-stretch base
+    Density_Stitches_Per_MM: 4.9                   # Trimmed density to prevent thread breakage on non-silk layers
+    Pull_Compensation_Percent: 18                  # Maximized to counter bamboo-hemp interlock shifting
+    Tie_Off_Stitches: "6_Micro_Lock_Points_At_Terminal_Nodes" # Added 2 points for extra plant-knot security
