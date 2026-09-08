@@ -1,0 +1,13 @@
+  - Product_ID: "VT_Mens_Patriarchal_Cross_v1"
+    Style: "Sovereign_Imperial_Patriarchal_Pendant"
+    Source_3D_Script: "VT_Mens_Patriarchal_Cross_v1.scad"
+    Material_Spec: "100_Percent_Solid_Pure_24K_Gold_Or_Sterling_Silver_Option"
+    Geometry_Class: "Flat_Back_Balanced_Relief_Anti_Swing"
+    Manufacturing_Method: "3D_Wax_Print_To_Lost_Wax_Precious_Metal_Cast"
+
+  - Product_ID: "VT_Womens_Encolpion_v1"
+    Style: "Sovereign_Imperial_Encolpion_Medallion"
+    Source_3D_Script: "VT_Womens_Encolpion_v1.scad"
+    Material_Spec: "100_Percent_Solid_Pure_24K_Gold_Or_Sterling_Silver_Option"
+    Engraving_Target: "High_Density_Laser_ChiRho_Sigil_Concentric_Face"
+    Manufacturing_Method: "3D_Wax_Print_To_Lost_Wax_Precious_Metal_Cast"
