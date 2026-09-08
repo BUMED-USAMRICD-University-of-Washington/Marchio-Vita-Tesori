@@ -1,0 +1,16 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+File_Format: "DXF-AAMA / ASTM"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+
+Production_Files:
+  - File_Name: "VT_Mens_Milspec_Boot_v1.dxf"
+    Base_Model: "Belleville_880ST_Specification"
+    Lining_Spec: "100_Percent_Vatican_Supply_BioSilk"
+    Upper_Spec: "450_GSM_Heavy_Organic_Hemp_Canvas"
+    Sole_Spec: "Multi_Layer_Vulcanized_Natural_Tree_Rubber"
+
+  - File_Name: "VT_Womens_Milspec_Boot_v1.dxf"
+    Base_Model: "Belleville_880ST_Specification"
+    Lining_Spec: "100_Percent_Vatican_Supply_BioSilk"
+    Gusset_Spec: "70_Bamboo_30_Hemp_Mechanical_Stretch_Interlock"
+    Sole_Spec: "Multi_Layer_Vulcanized_Natural_Tree_Rubber"
