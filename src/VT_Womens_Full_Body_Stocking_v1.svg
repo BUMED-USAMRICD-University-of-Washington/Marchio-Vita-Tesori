@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Full_Body_Stocking" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="1200px" viewBox="0 0 800 1200" enable-background="new 0 0 800 1200" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<!-- Full Body Silhouette - High Neck Base, Long Tapered Sleeves and Ankle Columns -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M360,60h80l40,80l140,80l140,60l-40,80l-120-40 L600,1140H440V700H360v440H200L160,360l-120,40l-40-60l140-60l140-80L360,60Z"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL HIGH-STRETCH FLATLOCK SEAMS (BLUE DASHED LINE) -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M370,75h60l35,75l135,75l130,55 l-30,65l-110-35L585,1125H455V715H345v410H215L175,375l-110,35l-30-65l135-55l135-75L370,75Z"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: DUAL EMBROIDERY LAYERS (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- LOCATION A: THE NECK TARGET -->
+	<path fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M385,85l30,30 M415,85l-30,30 M400,120V75 M400,75c12,0,12,15,0,15"/>
+	<!-- LOCATION B: NEAR THE WRIST TARGET (LEFT SLEEVE HEM TERMINAL) -->
+	<path fill="none" stroke="#D4AF37" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M685,250l15,15 M700,250l-15,15 M692,270v-25 M692,245c8,0,8,10,0,10"/>
+</g>
+</svg>
