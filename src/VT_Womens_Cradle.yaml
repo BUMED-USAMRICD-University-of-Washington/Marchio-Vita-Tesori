@@ -1,0 +1,23 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+File_Format: "DXF-AAMA / ASTM"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+Global_Material_Mandate: "100_Percent_Plant_Based_Organic_No_Silk_No_Lab_Synthetics"
+
+Production_Files_Cradle_Series:
+  - File_Name: "VT_Womens_Cradle_Top_v1.dxf"
+    Style: "Sovereign_Abdominal_Cradle_Camisole"
+    Embroidery_Map: "VT_Sacred_Handprint_v1.dst"
+    Anatomical_Target: "Dual_Lower_Abdomen_Palms_Facing_Inward"
+    Fabric_Specification: "70_Percent_Organic_Bamboo_30_Percent_Hemp_Heavy_Interlock_340GSM"
+
+  - File_Name: "VT_Womens_Cradle_Bra_v1.dxf"
+    Style: "Sovereign_Cushioning_Support_Bra"
+    Embroidery_Map: "VT_Sacred_Handprint_v1.dst"
+    Anatomical_Target: "Inner_Lining_Cups_With_Raised_3D_Metatarsal_Nodes"
+    Fabric_Specification: "75_Percent_Organic_Bamboo_25_Percent_Hemp_Heavy_Interlock_340GSM"
+
+  - File_Name: "VT_Womens_Cradle_Briefs_v1.dxf"
+    Style: "Sovereign_Lumbar_Support_Briefs_And_Stockings"
+    Embroidery_Map: "VT_Sacred_Handprint_v1.dst"
+    Anatomical_Target_A: "Lumbar_Spine_Inner_Backing_Brace"
+    Anatomical_Target_B: "Stocking_Sole_Metatarsal_Pad_Friction_Cushion"
