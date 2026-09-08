@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Stiletto_Donna_TrueRamp_6Pollici" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="1000px" height="850px" viewBox="0 0 1000 850" enable-background="new 0 0 1000 850" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LIVELLO 1: LINEA DI FUSIONE ORO 24K E TAGLIO CHASSIS (LINEA ROSSA) -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M120,620 L480,60l40,160l280,240c60,20,100,70,100,90
+		H760l-60-250L120,620Z"/>
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M760,460c30,25,70,60,100,100"/>
+	<!-- Canale di Passaggio per il Cinturino alla Caviglia in Pelle CIST -->
+	<rect x="200" y="420" fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" width="20" height="60" rx="2"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LIVELLO 2: CALIBRAZIONE DELLA RAMPA E DEL CUSCINETTO ANTERIORE (LINEA BLU TRATTEGGIATA) -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M135,605 L468,75l28,130
+		l262,220c38,15,67,52,67,77H785l-57-230Z"/>
+	<ellipse fill="none" stroke="#0000FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6,4" cx="720" cy="480" rx="45" ry="20"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LIVELLO 3: TARGET DI INCISIONE LASER DEL LOGO MAESTRO (ORO METALLICO) -->
+	<!-- Il monogramma Chi-Rho (☧) inciso sulla fiancata esterna della rampa in oro -->
+	<g transform="translate(160, 160)">
+		<path fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M290,290l30,30 M320,290l-30,30 M305,330V280 M305,280c12,0,12,15,0,15"/>
+	</g>
+</g>
+</svg>
