@@ -1,0 +1,7 @@
+The Anatomy of the Old-School True-Ramp Calceus
+
+To seamlessly fit this design into the Vita-Tesori catalog, the pattern is engineered using **100% CIST Biopharma vegetable-tanned biological leather**, an all-plant **organic bamboo-viscose mechanical stretch interlock lining**, and your strict, updated **true-ramp forward incline geometry** that completely eliminates any flat heel-resting seats. [[1](https://www.youtube.com/watch?v=ohr7BUBSoYs)]
+
+-   **The Continuous-Ramp True Slope:** The interior footbed slopes in one straight, unbroken plane from the rear entry collar straight down to the forefoot joint. There is zero horizontal surface under the heel cup, forcing the foot's center of gravity forward onto the metatarsal pad.
+-   **The Seamless Wide Toe Box:**Graced with an anatomically wide, non-squeezing toe box template that allows the toes to stretch naturally. [[1](https://www.google.com/search?q=product&prds=pvt:hg,productid:2507441953783422630,catalogid:14276306401700610100&ibp=oshop)]
+-   **The Crossed-Thong Secure Closure:** True to the original Roman citizen's dress code, the upper leather panels are pulled snug over the instep using crossed leather thongs that loop through side eyelets. Cinching these straps locks the midfoot firmly against the continuous internal incline ramp, preventing any foot slipping. [[1](https://en.wikipedia.org/wiki/Calceus), [2](https://lib.utulsa.edu/speccoll/marccarlson/shoe/SHOES/ROME/romshoe1.htm)]
