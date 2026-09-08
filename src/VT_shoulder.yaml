@@ -1,0 +1,18 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+Line_Designation: "Sovereign_Premium_Shoulder_Carriage_Series"
+File_Format: "DXF-AAMA / ASTM"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+
+Production_Files_Shoulder_Carriage:
+  - File_Name: "VT_Sovereign_Single_Shoulder_v1.dxf"
+    Style: "Sovereign_Single_Side_Modular_Shoulder_Rig"
+    Material_Spec: "4.0_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Hardware_Spec: "Solid_Cast_Brass_Double_Claw_Buckle"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+
+  - File_Name: "VT_Sovereign_Dual_Shoulder_v1.dxf"
+    Style: "Sovereign_Dual_Flank_Symmetric_Shoulder_Rig"
+    Material_Spec: "4.0_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Hardware_Spec: "Solid_Brass_Chicago_Binding_Screws"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+    Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
