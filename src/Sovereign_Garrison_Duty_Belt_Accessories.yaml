@@ -1,0 +1,29 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+Line_Designation: "Sovereign_Garrison_Duty_Belt_Accessories"
+File_Format: "DXF-AAMA / ASTM"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+External_Hardware_Standard: "https://github.com/Gundam-Robotics-Systems/Beam-Saber"
+
+Production_Files_Belt_Accessories:
+  - File_Name: "VT_Sovereign_Cuff_Holder_v1.dxf"
+    Material_Spec: "4.0_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Hardware_Spec: "Solid_Cast_Brass_Heavy_Duty_Snap_Button"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch_Heavy"
+
+  - File_Name: "VT_Sacred_Water_Carrier_v1.dxf"
+    Material_Spec: "4.0_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Closure_Method: "Vegetable_Tanned_Leather_Retention_Thong"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch_Heavy"
+
+  - File_Name: "VT_Liturgical_Tool_Pouch_v1.dxf"
+    Material_Spec: "4.0_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch_Heavy"
+
+  - File_Name: "VT_Sovereign_Saber_Holster_v1.dxf"
+    Style: "Sovereign_Beam_Saber_Hilt_Holster"
+    Material_Spec: "4.0_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Internal_Dampening_Pad: "High_Friction_Vulcanized_Natural_Tree_Rubber_Sheet_Lining"
+    Biomechanical_Rule: "Harmonic_Isolation_For_9000_RPM_Spinning_Gold_Core_Actuator"
+    Chassis_Pass_Through: "Open_Bottom_For_Telemetric_Line_And_Docking_Latch_Transit"
+    Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
