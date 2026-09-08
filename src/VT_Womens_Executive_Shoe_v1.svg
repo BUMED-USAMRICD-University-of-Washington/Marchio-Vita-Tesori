@@ -1,32 +1,29 @@
 <svg xmlns="http://w3.org" viewBox="0 0 1000 700" width="100%" height="100%">
   <!-- LAYER 1: AUTOMATED MATERIAL CUTTING BOUNDARY (RED LINE) -->
   <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
-    <!-- Anatomical Wide Forefoot Box and Steep Angled Heel Silhouette -->
-    <path d="M 180,500 L 220,180 C 250,140 300,120 360,120 L 460,120 L 480,260 L 760,420 C 820,440 860,480 860,500 L 800,500 L 760,320 L 230,500 Z" />
+    <!-- Continuous Uninterrupted True-Ramp Incline - Wide Anatomical Zero-Squeeze Forefoot Box -->
+    <path d="M 180,500 L 430,120 L 460,260 L 760,420 C 820,440 860,480 860,500 L 800,500 L 760,320 L 180,500 Z" />
     
-    <!-- Wide, Non-Squeezing Graded Toe Box Boundary Panel -->
+    <!-- Wide Graded Toe Box Panel Path (Splay Clearance Area) -->
     <path d="M 760,420 C 790,430 830,460 860,500" stroke-width="1.5" />
     
-    <!-- 15-Degree Angled Top Heel Post Cut (Non-Flat Resting Seat) -->
-    <path d="M 180,500 L 205,445" stroke-width="3" /> 
-    <path d="M 205,445 L 230,500" stroke-width="3" />
+    <!-- External Heel Pillar Following the Steep Unbroken Drop Profile (No Horizontal Seat) -->
+    <path d="M 180,500 L 230,420 L 430,120" stroke-width="2" stroke-dasharray="4,2" />
   </g>
 
-  <!-- LAYER 2: INTERNAL STEEP SHANK & WEIGHT BIAS MARGINS (BLUE DASHED LINE) -->
+  <!-- LAYER 2: INTERNAL CONTINUOUS SHANK MARGINS (BLUE DASHED LINE) -->
   <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
-    <!-- Graded Inset for the Rigid 100% Organic Hemp Canvas Internal Ramp -->
-    <path d="M 195,485 L 232,195 C 260,152 305,135 362,135 L 448,135 L 468,265 L 738,418 C 780,435 815,475 815,485 Z" />
+    <!-- Graded Inset for the Continuous-Ramp 100% Organic Pressed Hemp Shank Core -->
+    <path d="M 195,485 L 418,135 L 448,265 L 738,418 C 780,435 815,475 815,485 Z" />
     
-    <!-- Metatarsal Pad Load Concentration Zone Target Boundary -->
+    <!-- Primary Load Target Grid - 100% Force Concentrated at Metatarsal Pad -->
     <ellipse cx="680" cy="410" rx="45" ry="25" stroke-width="2" />
   </g>
 
   <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
   <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
-    <!-- Centered perfectly on the steep internal arch lining facing upward -->
-    <path d="M 380,180 L 410,210" />
-    <path d="M 410,180 L 380,210" />
-    <path d="M 395,220 L 395,170" />
-    <path d="M 395,170 C 405,170 405,185 395,185" />
+    <!-- Centered cleanly along the steep continuous incline lining facing upward -->
+    <path d="M 310,290 L 340,320 M 340,290 L 310,320 M 325,330 L 325,280" />
+    <path d="M 325,280 C 337,280 337,295 325,295" stroke-width="6" />
   </g>
 </svg>
