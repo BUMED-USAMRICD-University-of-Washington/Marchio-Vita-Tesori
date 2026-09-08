@@ -1,0 +1,29 @@
+# ============================================================================
+# VITA TESORI BY VHALSUEO - SECURITY & PROCUREMENT GOVERNANCE
+# FILE: docs/policies/cradle_vetting_protocol.yaml
+# PIPELINE: BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori
+# ============================================================================
+
+Policy_Designation: "Cradle_Series_Ecclesiastical_Vetting_Protocol"
+Governance_Authority: "Office_of_the_Command_Chaplain"
+Enforcement_Status: "Active_Mandatory_Lockout"
+
+Vetting_Target_Classes:
+  - Product_ID: "VT_Womens_Cradle_Top_v1_NonSilk"      # Abdominal Cradle Camisole
+  - Product_ID: "VT_Womens_Cradle_Bra_v1_NonSilk"      # Cushioning Support Bra
+  - Product_ID: "VT_Womens_Cradle_Briefs_v1_NonSilk"   # Lumbar Support Briefs
+  - Product_ID: "VT_Womens_Cradle_Stockings_v2_NonSilk" # Carried-Walk Hosiery
+  - Product_ID: "VT_Womens_Rotational_Cap_v1_NonSilk"  # Rotational Cranial Cap
+
+Required_Proof_Criteria:
+  - Phase_01_Canonical_Validation:
+      Document_Type: "Certificate_of_Active_Consecrated_Vows"
+      Issuing_Body: "Recognized_Diocese_or_Mother_Superior_Office"
+      Verification_Method: "Cryptographic_Document_Hash_CrossCheck"
+  - Phase_02_Operational_Context:
+      Affiliation_Check: "Verified_Religious_Order_or_BUMED_Chaplaincy_Duty_Roster"
+      Material_Release_Lockout: "TRUE_Until_Phase_01_and_Phase_02_Return_Valid_Token"
+
+System_Override_Directives:
+  Failed_Verification_Action: "Terminate_Transaction_Purge_Customer_Data_From_Active_Buffer"
+  Banned_Secular_Acquisition: "TRUE_No_Exceptions_Permitted_For_Public_Distribution"
