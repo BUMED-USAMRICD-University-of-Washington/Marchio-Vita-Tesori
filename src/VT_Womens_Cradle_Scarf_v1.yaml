@@ -1,0 +1,26 @@
+  - Product_ID: "VT_Womens_PX_Talit_v1_NonSilk"
+    Style: "Sovereign_Womens_Department_PX_Talit"
+    Pattern_File: "VT_Womens_PX_Talit_v1.dxf"
+    Vector_Layout: "VT_Womens_PX_Talit_v1.svg"
+    Sizing_Grading: "Universal_Mantle_Liturgical_Scale_Matrix"
+    Fabric_Specification: "65_Percent_Organic_Hemp_35_Percent_Bamboo_Gauze_280GSM"
+    Biomechanical_Rules:
+      Exterior_Branding: "High_Density_Gold_Cellulose_PX_Monogram_Mantle_Header"
+      Interior_Cradle: "Hiding_Two_Inward_Facing_Hand_Tatami_Stitches_To_Cup_Shoulders"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+
+  - Product_ID: "VT_Womens_Cradle_Scarf_v1_NonSilk"
+    Style: "Sovereign_Womens_Cradle_Touch_Stretch_Scarf"
+    Pattern_File: "VT_Womens_Cradle_Scarf_v1.dxf"
+    Vector_Layout: "VT_Womens_Cradle_Scarf_v1.svg"
+    Sizing_Grading: "Universal_High_Stretch_Muffler_Scale_Matrix"
+    Fabric_Specification: "100_Percent_Organic_Bamboo_Hemp_Swim_Interlock_Knit_340GSM"
+    Biomechanical_Rules:
+      Exterior_Branding: "Terminal_Edge_Gold_Cellulose_PX_Monogram_Embroidery"
+      Interior_Cradle: "Sequential_Textured_Handprints_Provide_Deep_Cervical_Pressure_Grounding"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_607_Flatlock_Seam"
+      Thread_Specification: "100_Percent_Soft_Spun_Organic_Cotton_Core_Thread"
+      Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
