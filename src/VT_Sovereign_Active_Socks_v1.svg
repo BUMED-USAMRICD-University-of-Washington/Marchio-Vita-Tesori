@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Sovereign_Active_Socks" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED CIRCULAR KNITTING BOUNDARY (RED LINE) -->
+	<!-- Standard mid-calf crew-cut sock chassis profile with graded heel and seamless flat toe loop -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M250,150h180v200l180,180l40,120H550
+		l-100-100v-220H250V150Z"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: MECHANICAL STRETCH COMPRESSION & CUSHIONING TARGETS (BLUE DASHED LINE) -->
+	<!-- Graded 2.5-inch upper ankle cuff boundary containing the high-density interlocking vertical rib matrix -->
+	<rect x="255" y="150" fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" width="170" height="60"/>
+	
+	<!-- Midfoot Arch Compression Loop Tracking Grid -->
+	<path fill="none" stroke="#00FFFF" stroke-width="1.5" stroke-dasharray="4,2" d="M470,450 Q520,420 570,450 M485,470 Q525,440 585,470"/>
+	
+	<!-- High-Impact Silver-Plated Double-Knit Cushion Matrix (Metatarsal Ball Target) -->
+	<ellipse fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="4,2" cx="610" cy="510" rx="25" ry="12"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO EMBROIDERY (PANTONE 16-0947 TCX GOLD EARTH) -->
+	<!-- The Master Chi-Rho (☧) Signature of God, positioned on the outer lateral ankle wall for rapid sorting -->
+	<g transform="translate(10, 100)">
+		<path fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M310,140l20,20 M330,140l-20,20 M320,165V125 M320,125c10,0,10,15,0,15"/>
+	</g>
+</g>
+</svg>
