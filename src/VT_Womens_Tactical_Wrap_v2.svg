@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Tactical_Wrap_Standard" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="1000px" viewBox="0 0 800 1000" enable-background="new 0 0 800 1000" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<!-- Tailored, tapered non-pregnant silhouette with modular high-access low chassis -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M280,80h240l50,140l60,200l-60,180v60H580
+		c-30,15-60,30-100,30s-70-15-100-30H220V660l-60-200l50-240L280,80Z"/>
+	
+	<!-- Symmetrical Crossover Chest Bands with Friction-Slide Geometries -->
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M280,80 C350,220 430,340 580,440"/>
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M520,80 C450,240 370,340 220,440"/>
+	
+	<!-- Form-Fitting Midsection Compression Bands (Tapered Horizontal Rows) -->
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M160,440 L640,440 M160,540 L640,540"/>
+	
+	<!-- Sliding Rear Seat Panel Crescent Split Path -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M220,660 C310,710 490,710 580,660"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M295,95h210l40,125l50,185
+		l-50,165v50h-30c-25,10-50,20-85,20s-60-10-85-20h-30V645l-50-185l50-185L295,95Z"/>
+	
+	<!-- 3-Inch Rigid Under-Bust Hemp Anchor Core Tracking Boundaries -->
+	<path fill="none" stroke="#0000FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" d="M220,360 H580"/>
+	
+	<!-- Groin Gusset Pass-Through Loop Target (Friction Slide Window) -->
+	<path fill="none" stroke="#00FFFF" stroke-width="1.5" stroke-dasharray="4,2" d="M390,660 C390,695 410,695 410,660"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO EMBROIDERY (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Aligned on the non-moving right lower leg panel hem -->
+	<path fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M555,720l30,30 M585,720l-30,30 M570,765V695 M570,295c12,0,12,18,0,15"/>
+</g>
+</svg>
