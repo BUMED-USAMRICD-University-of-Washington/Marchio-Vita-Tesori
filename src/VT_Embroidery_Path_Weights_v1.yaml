@@ -1,0 +1,85 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+Configuration_Target: "Industrial_Multi_Head_Embroidery_Automation"
+Repository_Pipeline: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+Global_Thread_Standard: "100_Percent_Organic_Cellulose_Gold_Metallic_Thread_No_Lab_Synthetics"
+
+Automated_Sewing_Head_Global_Settings:
+  Machine_Speed_RPM_Limit: 650                      # Capped lower speed to prevent organic fiber shear
+  Needle_Specification: "Oversized_Ballpoint_RG_90_14" # Non-cutting point to navigate heavy interlock knit
+  Base_Fabric_Stabilization: "Dual_Layer_Water_Soluble_Bamboo_Backing_No_Synthetic_Fusing"
+  Upper_Thread_Tension_Grams: 110                  # Calibrated for high-breaking-strength hemp thread
+  Lower_Bobbin_Tension_Grams: 22                   # Balanced to prevent canvas puckering or pulling
+
+9_Panel_Matrix_Path_Weights:
+  - Panel_ID: "Panel_01_Cooks"
+    Symbol: "Harvest_Wheat_Geometric_Target"
+    Trace_Type: "Run_Stitch"
+    Path_Weight_Points: 4.0                        # 0.4mm physical line thickness
+    Stitch_Length_MM: 2.5
+    Density_Stitches_Per_CM: 40
+    Color_Code: "Pantone_16-0947_TCX_Gold_Earth"
+
+  - Panel_ID: "Panel_02_Farmers"
+    Symbol: "Agriculture_Pathology_Field_Lines"
+    Trace_Type: "Triple_Run_Stitch"
+    Path_Weight_Points: 6.0                        # 0.6mm physical line thickness
+    Stitch_Length_MM: 2.0
+    Density_Stitches_Per_CM: 50
+    Color_Code: "Pantone_16-0947_TCX_Gold_Earth"
+
+  - Panel_ID: "Panel_03_Doctors"
+    Symbol: "The_Structural_Chai_Alignment"
+    Trace_Type: "Satin_Stitch"
+    Path_Weight_Points: 12.0                       # 1.2mm physical column width
+    Stitch_Length_MM: 4.5                          # Generous span to allow natural bamboo stretch
+    Density_Stitches_Per_MM: 4.2                   # High-density structural fill
+    Pull_Compensation_Percent: 12                  # Higher allowance for loose organic interlock knit
+
+  - Panel_ID: "Panel_04_Morgue"
+    Symbol: "Disposable_Containment_Shield"
+    Trace_Type: "Dashed_Run_Stitch"
+    Path_Weight_Points: 3.0                        # 0.3mm fine line vector path
+    Stitch_Length_MM: 3.5
+    Density_Stitches_Per_CM: 30
+    Color_Code: "Pantone_19-4007_TCX_Anthracite_Muted"
+
+  - Panel_ID: "Panel_05_Police"
+    Symbol: "Authoritative_Seam_Cross_Row"
+    Trace_Type: "Satin_Stitch"
+    Path_Weight_Points: 10.0                       # 1.0mm column width
+    Stitch_Length_MM: 3.8
+    Density_Stitches_Per_MM: 4.5
+    Pull_Compensation_Percent: 8                   # Locked parameters for stable hemp canvas
+
+  - Panel_ID: "Panel_06_Federal_LE"
+    Symbol: "Precision_Vertical_Twill_Lines"
+    Trace_Type: "Micro_Run_Stitch"
+    Path_Weight_Points: 2.0                        # 0.2mm ultra-fine structural accent
+    Stitch_Length_MM: 1.8
+    Density_Stitches_Per_CM: 60
+    Color_Code: "Pantone_19-0303_TCX_Jet_Black"
+
+  - Panel_ID: "Panel_07_Student"
+    Symbol: "Balanced_Foundation_Geometric_Base"
+    Trace_Type: "Triple_Run_Stitch"
+    Path_Weight_Points: 5.0                        # 0.5mm clean boundary ring
+    Stitch_Length_MM: 2.2
+    Density_Stitches_Per_CM: 45
+    Color_Code: "Pantone_16-0947_TCX_Gold_Earth"
+
+  - Panel_ID: "Panel_08_Combat_Medic"
+    Symbol: "The_880ST_Steel_Toe_Cross_Shield"
+    Trace_Type: "Satin_Stitch"
+    Path_Weight_Points: 14.0                       # 1.4mm high-visibility bold column
+    Stitch_Length_MM: 5.0
+    Density_Stitches_Per_MM: 4.8
+    Pull_Compensation_Percent: 10
+
+  - Panel_ID: "Panel_09_Signature_Of_God"
+    Symbol: "High_Density_Chi_Rho_Chrismon"        # Reconstructing master EPS asset
+    Trace_Type: "Heavy_Tatami_Fill_With_Satin_Border"
+    Path_Weight_Points: 24.0                       # Heavy 2.4mm master column border
+    Underlay_Pattern: "Double_Zig_Zag"             # Mandatory foundation to anchor to Vatican Bio-Silk
+    Density_Stitches_Per_MM: 5.2                   # Maximum allowable density for cellulose metallic gold
+    Pull_Compensation_Percent: 15                  # Maximum protection against knit contraction
+    Tie_Off_Stitches: "4_Micro_Lock_Points_At_Terminal_Nodes"
