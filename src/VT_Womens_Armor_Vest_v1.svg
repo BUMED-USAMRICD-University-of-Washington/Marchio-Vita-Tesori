@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Armor_Corset_Vest" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED BIOLOGICAL MATERIAL LASER CUTTING BOUNDARY (RED LINE) -->
+	<!-- Tailored under-bust corset waist-vest bodice profile featuring deep double-crescent top lifting edges -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M260,250 C310,180 390,180 400,250 
+		c10-180 90-180 140,0 L560,650 H240 L240,250 Z"/>
+	<!-- Symmetrical Dual-Prong Front Brass Buckle Attachment Adjustment Paths -->
+	<circle cx="360" cy="400" r="4" /><circle cx="360" cy="450" r="4" /><circle cx="360" cy="500" r="4" />
+	<circle cx="440" cy="400" r="4" /><circle cx="440" cy="450" r="4" /><circle cx="440" cy="500" r="4" />
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: DOUBLE-NEEDLE SADDLE ASSEMBLY STITCH LINES (BLUE DASHED LINE) -->
+	<!-- Graded 0.5-inch edge stitch guides for 4mm thick CIST biological saddle-leather panels -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M275,255 C320,195 385,195 395,255 
+		c10-165 80-165 125,0 L545,635 H255 L255,255 Z"/>
+	<!-- Rear Lumbar Brace Vertical Reinforcement Double-Row Seams -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="4,2" d="M350,260 V635 M450,260 V635"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO EMBROIDERY (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Positioned elegantly on the lower center-front anchor tab near the waist base -->
+	<path fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M385,580l30,30 M415,580l-30,30 M400,625V555 M400,555c12,0,12,18,0,15"/>
+</g>
+</svg>
