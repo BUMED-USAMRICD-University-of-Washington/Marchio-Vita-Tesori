@@ -1,0 +1,21 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+Line_Designation: "Sovereign_GI_USMC_Leather_Utility_Series"
+File_Format: "DXF-AAMA / ASTM"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+
+Production_Files_Leathercraft_Directives:
+  - File_Name: "VT_Sovereign_Holster_v1.dxf"
+    Material_Spec: "4.0_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Lining_Spec: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+    Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+
+  - File_Name: "VT_Tactical_Kit_Holder_v1.dxf"
+    Material_Spec: "4.0_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Hardware_Spec: "Solid_Brass_Structural_Rivets_Rust_Proof"
+    Stitch_Type: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+
+  - File_Name: "VT_Chaplain_Pack_v1.dxf"
+    Material_Spec: "3.5_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Strap_Lining: "70_Bamboo_30_Hemp_Mechanical_Stretch_Interlock_340GSM"
+    Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
