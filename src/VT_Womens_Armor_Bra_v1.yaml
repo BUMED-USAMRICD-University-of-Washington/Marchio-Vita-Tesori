@@ -1,0 +1,15 @@
+  - Product_ID: "VT_Womens_Armor_Bra_v1_NonSilk"
+    Style: "Sovereign_UnderBust_Armor_Companion_Bra"
+    Pattern_File: "VT_Womens_Armor_Bra_v1.dxf"
+    Vector_Layout: "VT_Womens_Armor_Bra_v1.svg"
+    Sizing_Grading: "Anatomical_Full_Bust_Lifting_Sling_Matrix"
+    Fabric_Specification: "75_Percent_Organic_Bamboo_25_Percent_Hemp_Heavy_Interlock_340GSM"
+    Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+    Biomechanical_Rules:
+      Armor_Integration: "Ultra_Low_Deep_Scoop_Sweetheart_Vamp_Matches_Armor_Root_Line"
+      Bust_Elevation: "Wide_Set_Lateral_Outer_Sling_Forces_Anatomical_Overhang"
+      Friction_Reduction: "Frictionless_Sateen_Lining_Prevents_Chafing_Under_Leather_Vest"
+      Lower_Suspension: "2.5_Inch_Wide_100_Percent_Organic_High_Density_Hemp_Rib_Knit_Band"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_607_Flatlock_Seam"
+      Thread_Specification: "100_Percent_Soft_Spun_Organic_Cotton_Core_Thread"
