@@ -1,0 +1,26 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1000 800" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED MATERIAL CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Profile Silhouette of the Heavy 880ST Style Combat Boot Upper -->
+    <path d="M 200,650 L 250,300 C 270,200 320,150 360,150 L 460,150 L 440,250 L 520,380 L 720,550 L 780,650 Z" />
+    <!-- Broad Steel-Toe Cap Panel Partition Line -->
+    <path d="M 620,470 C 650,490 700,530 720,550 L 650,650" />
+    <!-- Heavy Duty Speed-Lace Eyelet Alignment Path -->
+    <path d="M 380,180 L 480,420" stroke="#FF0000" stroke-width="1" stroke-dasharray="4,4" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL REINFORCEMENT & STITCH LINES (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- Double-needle lockstitch margin for 450 GSM Organic Hemp Canvas -->
+    <path d="M 215,635 L 265,310 C 282,215 325,165 365,165 L 445,165 L 428,245 L 505,370 L 700,538 L 755,635 Z" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Centered proudly on the heavy upper ankle lateral support panel -->
+    <path d="M 290,240 L 330,280" />
+    <path d="M 330,240 L 290,280" />
+    <path d="M 310,295 L 310,225" />
+    <path d="M 310,225 C 322,225 322,245 310,245" />
+  </g>
+</svg>
