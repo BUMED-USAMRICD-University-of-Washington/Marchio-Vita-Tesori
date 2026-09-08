@@ -1,0 +1,13 @@
+  - Product_ID: "VT_Womens_Cradle_Stockings_v2_NonSilk"
+    Style: "Sovereign_Carried_Walk_Suspension_Hosiery"
+    Pattern_File: "VT_Womens_Cradle_Stockings_v2.dxf"
+    Vector_Layout: "VT_Womens_Cradle_Stockings_v2.svg"
+    Sizing_Grading: "Proportional_Thigh_High_Hosiery_Scale_Matrix"
+    Fabric_Specification: "85_Percent_Organic_Bamboo_15_Percent_Hemp_MicroMesh"
+    Biomechanical_Rules:
+      Plantar_Cradle: "High_Density_Honey_Comb_Metatarsal_Underlay_Mimics_Palm_Grip"
+      Traction_Suspension: "Six_CrossOver_Plantar_Fascia_Bands_Simulate_Finger_Lift"
+      True_Ramp_Cohesion: "Mechanical_Tension_Locks_Calcaneus_Against_Forward_Sliding_Ramp"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_602_Coverstitch_For_Seamless_Toe_Closure"
+      Thread_Specification: "100_Percent_Soft_Spun_Organic_Cotton_Core_Thread"
