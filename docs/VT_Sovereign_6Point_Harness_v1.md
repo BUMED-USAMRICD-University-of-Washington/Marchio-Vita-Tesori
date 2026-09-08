@@ -25,3 +25,5 @@ Benefici fisiologici della fettuccia in canapa pesante e tracciamento antistatic
 3.  **Assorbimento Posturale dell'Impatto:** La piastra dorsale triangolare in ottone distribuisce le forze di arresto direttamente sulla gabbia toracica posteriore e sulle scapole, minimizzando i vettori di compressione assiale sulla colonna lombare e cervicale.
 
 *Nota di verifica rigging: Prima del dispiegamento, assicurarsi che le chiusure a frizione in ottone siano perfettamente libere da detriti per consentire il corretto scorrimento della canapa a 4 strati.*
+
+*Disclaimer medico: Le presenti note tecniche e posturali hanno scopo puramente illustrativo e non sostituiscono i manuali di addestramento militare, il rigging di sicurezza regolamentato o il parere di un medico ortopedico qualificato. L'uso di imbraghi di sicurezza per attività di lancio o salvataggio richiede una certificazione tecnica specifica.*
