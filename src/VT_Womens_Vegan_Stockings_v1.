@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Short_Long_Stockings" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="1000px" viewBox="0 0 800 1000" enable-background="new 0 0 800 1000" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED CIRKULAR KNITTING CUT BOUNDS (RED LINE) -->
+	<!-- Long Thigh-High Stocking Panel Architecture -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M180,100h240l20,120L380,500l-20,380l120,40v40H300 L240,900H180l20-400l40-300L180,100Z"/>
+	<!-- Short Anklet/Mid-Calf Cutting Plane Reference Line -->
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-dasharray="4,4" d="M180,500h200"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL NATURAL TREE RUBBER FRICTION SEAT (BLUE DASHED LINE) -->
+	<rect x="185" y="100" fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" width="230" height="80"/>
+	<path fill="none" stroke="#00FFFF" stroke-width="1.5" stroke-dasharray="4,2" d="M185,130 Q300,110 415,130 M185,150 Q300,130 415,150"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO RICAMO TARGET (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Aligned on the internal face of the upper leg zone (INNER THIGH TARGET) -->
+	<path fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M350,130l20,20 M370,130l-20,20 M360,155V120 M360,120c10,0,12,12,0,12"/>
+</g>
+</svg>
