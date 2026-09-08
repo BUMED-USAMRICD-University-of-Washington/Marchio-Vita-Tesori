@@ -1,0 +1,23 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 1000" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Sculpting High-Rise A-Line Panel Matrix -->
+    <path d="M 280,100 L 520,100 L 640,400 L 740,920 L 60,920 L 160,400 Z" />
+    <!-- Broad Curved Mechanical Support Waistband Intersection Line -->
+    <path d="M 235,240 C 340,280 460,280 565,240" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL SEAM ALLOWANCE - 1 INCH GRADED (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <path d="M 295,115 L 505,115 L 615,405 L 715,905 L 85,905 L 185,405 Z" />
+    <!-- Graded Lower Hem Fold-Under Guideline -->
+    <path d="M 75,880 L 725,880" stroke-dasharray="4,2" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Placed on the back core belt yolk centered on the spine -->
+    <path d="M 380,140 L 420,170 M 420,140 L 380,170 M 400,180 L 400,130" />
+    <path d="M 400,130 C 412,130 412,148 400,145" stroke-width="4" />
+  </g>
+</svg>
