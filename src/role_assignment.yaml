@@ -1,0 +1,10 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+File_Format: "DXF-AAMA / ASTM"
+Source_Vector_Asset: "5997CRISMON-1 [Convertido].eps"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+
+Production_Rules:
+  - Matrix_File_Name: "VT_Nine_Panel_Matrix_v1.dxf"
+    Base_Grid: "9_Panel_Role_Assignment_Configuration"
+    Signature_Layer: "Gold_Cellulose_Thread_ChiRho_Bottom_Right"
+    Fabric_Application: "All_Organic_BUMED_Clinical_Everyday_Duty"
