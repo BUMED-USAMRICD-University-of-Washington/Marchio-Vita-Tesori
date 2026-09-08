@@ -1,0 +1,13 @@
+  - Product_ID: "VT_Womens_Rotational_Cap_v1_NonSilk"
+    Style: "Sovereign_Rotational_Heavy_Stocking_Cap"
+    Pattern_File: "VT_Womens_Rotational_Cap_v1.dxf"
+    Vector_Layout: "VT_Womens_Rotational_Cap_v1.svg"
+    Sizing_Grading: "Symmetrical_Universal_Cranial_Scale_Matrix"
+    Fabric_Specification: "65_Percent_Organic_Bamboo_35_Percent_Hemp_Heavy_Interlock_420GSM"
+    Biomechanical_Rules:
+      Rotational_Alignment: "Symmetrical_Base_Allows_360_Degree_Axis_Spin_For_Custom_Hand_Target"
+      Tactile_Pressure: "Heavy_Tatami_Hand_Fill_With_Puff_Foam_Callus_Underlays_For_Grounding"
+      Retention_Lock: "Concentric_Internal_Tracks_Of_Natural_Tree_Sap_Latex_Grip"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_607_Flatlock_Seam"
+      Thread_Specification: "100_Percent_Soft_Spun_Organic_Cotton_Core_Thread"
