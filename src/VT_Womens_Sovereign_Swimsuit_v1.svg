@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Sovereign_Swimsuit" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="1000px" viewBox="0 0 800 1000" enable-background="new 0 0 800 1000" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<!-- Tailored one-piece silhouette with deep sweetheart bustier curves and low back cut -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M300,100h200l60,120l60,200l-60,180v300H240V600
+		l-60-180l60-200L300,100Z"/>
+	<!-- Internal structural sweetheart bodice panel layout rows -->
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M240,320c60,50,260,50,320,320"/>
+	<!-- Princess seams for tailored tridimensional full-bust clearance -->
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M340,420c-15-60,15-120,30-140 M460,420
+		c15-60-15-120-30-140"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
+	<!-- 0.5-Inch safety margin graded for flexible double-knit bamboo/hemp swim stitch execution -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M315,115h170l50,105l55,185
+		l-55,165v295H255V615l-55-165l55-185L315,115Z"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO EMBROIDERY (METALLIC GOLD CELLULOSE THREAD) -->
+	<path fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M370,160l60,60 M430,160l-60,60 M400,235V145 M400,145c15,0,15,30,0,30"/>
+</g>
+</svg>
