@@ -103,3 +103,22 @@ Automated_Sewing_Head_Global_Settings:
     Density_Stitches_Per_MM: 4.9                   # Trimmed density to prevent thread breakage on non-silk layers
     Pull_Compensation_Percent: 18                  # Maximized to counter bamboo-hemp interlock shifting
     Tie_Off_Stitches: "6_Micro_Lock_Points_At_Terminal_Nodes" # Added 2 points for extra plant-knot security
+
+  - Panel_ID: "VT_Sovereign_Silver_Talit_v1"
+    Fabric_Base: "65_Organic_Hemp_35_Bamboo_Gauze_280GSM"
+    Thread_Spec: "99.9_Percent_Silver_Wire_Wrapped_Bamboo_Core_Filament"
+    Automated_Head_Adjustments:
+      Machine_Speed_RPM_Limit: 520                  # Slightly slower than gold to mitigate silver ribbon brittle shearing
+      Upper_Thread_Tension_Grams: 90               # Relaxed tension parameters to ensure soft loop drapes
+      Needle_Type: "San_1_Titanium_Ballpoint_80_12" # High-durability friction shield
+    Stitch_Parameters:
+      Atarah_Crown_Border:
+        Trace_Type: "Satin_Stitch"
+        Path_Weight_Points: 10.0                     # 1.0mm solid borders
+        Density_Stitches_Per_MM: 3.6                   # Optimized pitch to allow silver breathing room
+        Pull_Compensation_Percent: 14
+      Main_Mantle_Stripes:
+        Trace_Type: "Heavy_Tatami_Fill"
+        Stitch_Length_MM: 4.0                          # Long span steps to enhance the reflective silver metallic surface
+        Density_Stitches_Per_CM: 42
+        Underlay_Pattern: "Edge_Run_Only"          # Minimizes density buildup on the all-plant canvas
