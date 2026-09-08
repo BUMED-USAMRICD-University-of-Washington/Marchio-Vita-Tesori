@@ -16,3 +16,21 @@
       Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
       Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
       Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
+
+  - Product_ID: "VT_Mens_Calceus_Flat_v1_NonSilk"
+    Style: "Sovereign_Historical_Flat_Soled_Calceus"
+    Pattern_File: "VT_Mens_Calceus_Flat_v1.dxf"
+    Vector_Layout: "VT_Mens_Calceus_Flat_v1.svg"
+    Historical_Basis: "Ancient_Roman_Byzantine_Calceus_Mantle_Standard"
+    Incline_Architecture: "Zero_Drop_Flat_Platform_Foundation"
+    Biomechanical_Rules:
+      Forefoot_Box: "Wide_Graded_Anatomical_Zero_Squeeze_Envelope"
+      Tension_Distribution: "Balanced_Plantar_Male_Anatomy_Support"
+    Material_Composition:
+      Upper_Body_Shell: "100_Percent_CIST_Biopharma_Vegetable_Tanned_Cowhide_Leather"
+      Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+      Sole_Structure: "Multi_Layer_Vulcanized_Natural_Tree_Rubber_With_Hemp_Core"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
