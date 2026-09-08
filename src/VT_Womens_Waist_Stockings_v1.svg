@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Waist_Stockings_Strap_Access" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="1000px" viewBox="0 0 800 1000" enable-background="new 0 0 800 1000" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M250,80h300l40,240l160,600H630L510,480v440H290 V480L170,920H50l160-600L250,80Z"/>
+	<!-- Strap Access Cross-Over Overlapping Pelvic Cut Slits -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M360,320 L440,420 M440,320 L360,420"/>
+	<!-- Bamboo Retention Strap Anchor Guides -->
+	<rect x="340" y="350" fill="none" stroke="#FF0000" stroke-width="1.5" width="20" height="40"/>
+	<rect x="440" y="350" fill="none" stroke="#FF0000" stroke-width="1.5" width="20" height="40"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: REINFORCED COMPRESSION EDGE SEAMS (BLUE DASHED LINE) -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M265,95h270l35,225l150,565 H615L500,495v410H300V495L185,885H85l150-565L265,95Z"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO RICAMO TARGET (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Centered dead-on over the lumbar spine belt (MIDDLE OF THE BACK TARGET) -->
+	<path fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M370,140l60,60 M430,140l-60,60 M400,215V145 M400,145c15,0,15,30,0,30"/>
+</g>
+</svg>
