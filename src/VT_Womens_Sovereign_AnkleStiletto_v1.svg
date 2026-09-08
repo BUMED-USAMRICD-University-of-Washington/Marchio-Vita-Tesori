@@ -1,0 +1,27 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1000 800" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED MATERIAL CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Steep Continuous Stiletto Incline Silhouette with Ankle Strap Extension -->
+    <path d="M 150,580 L 420,100 L 460,260 L 780,480 C 840,500 880,550 880,580 L 800,580 L 740,340 L 150,580 Z" />
+    
+    <!-- Wide CIST Leather Ankle Strap Wrap Boundaries -->
+    <rect x="360" y="40" width="120" height="40" rx="4" />
+    
+    <!-- Ultra-Slim High Support Heel Column Following the Continuous Drop Profile -->
+    <path d="M 150,580 L 195,470 L 420,100" stroke-width="2" stroke-dasharray="4,2" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL CONTINUOUS SHANK MARGINS (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- Graded Inset for the Solid Continuous-Ramp Structural Hemp Shank Core -->
+    <path d="M 165,565 L 408,115 L 438,245 L 758,465 C 800,480 835,535 835,565 Z" />
+    <!-- Triple-Layered Organic Bamboo Viscose Padded Metatarsal Target -->
+    <ellipse cx="710" cy="450" rx="45" ry="20" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Centered cleanly along the interior side wall arch line -->
+    <path d="M 310,150 L 340,180 M 340,150 L 310,180 M 325,190 L 325,140" />
+  </g>
+</svg>
