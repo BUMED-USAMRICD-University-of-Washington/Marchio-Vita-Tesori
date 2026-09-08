@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Mens_Sovereign_Swimshorts" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="1000px" height="800px" viewBox="0 0 1000 800" enable-background="new 0 0 1000 800" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<!-- Balanced mid-thigh athletic training cut with wide geometric crotch gusset -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M220,100h560l40,320H600v100c-20-20-60-20-80,0
+		v-100H180L220,100Z"/>
+	<!-- Internal 3D suspended support pouch panel cuts (Anatomical crescent rows) -->
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M440,100c10,120-20,220,60,220c80,0,50-100,60-220"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
+	<!-- Graded 0.5-inch flat-felled seam channels for heavy-duty marine durability -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M235,115h530l35,285H615
+		v105c-35-15-75-15-110,0v-105H200L235,115Z"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO EMBROIDERY (METALLIC GOLD CELLULOSE THREAD) -->
+	<path fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M235,320l30,30 M265,320l-30,30 M250,365V295 M250,295c12,0,12,18,0,15"/>
+</g>
+</svg>
