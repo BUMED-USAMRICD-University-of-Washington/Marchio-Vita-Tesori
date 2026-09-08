@@ -1,0 +1,15 @@
+  - Product_ID: "VT_Womens_Tactical_Wrap_v2_NonSilk"
+    Style: "Sovereign_Womens_High_Access_Tactical_Wrap"
+    Pattern_File: "VT_Womens_Tactical_Wrap_v2.dxf"
+    Vector_Layout: "VT_Womens_Tactical_Wrap_v2.svg"
+    Sizing_Grading: "Standard_Garrison_Active_Duty_Matrix"
+    Fabric_Specification: "100_Percent_Organic_Bamboo_Hemp_Swim_Interlock_Knit_340GSM"
+    Biomechanical_Rules:
+      Waist_Compression: "Tapered_Anatomical_Panels_For_Natural_Corset_Smoothing"
+      Upper_Nursing_Access: "Cross_Over_Bust_Bands_With_Lateral_Friction_Slide_Tracks"
+      Lower_Bathroom_Access: "Tri_Zone_Sliding_Seat_Matrix_With_Groin_Gusset_Pass_Through"
+      Self_Lubrication_Rule: "Pure_Bamboo_Viscose_Thread_Self_Lubricating_Slide_Edges"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_607_Flatlock_Seam"
+      Thread_Specification: "100_Percent_Soft_Spun_Organic_Cotton_Core_Thread"
+      Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
