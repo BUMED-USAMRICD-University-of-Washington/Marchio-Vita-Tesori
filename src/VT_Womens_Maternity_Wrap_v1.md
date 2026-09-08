@@ -1,0 +1,15 @@
+  - Product_ID: "VT_Womens_Maternity_Wrap_v1_NonSilk"
+    Style: "Sovereign_Multi_Configuration_Maternity_Swim_Suit"
+    Pattern_File: "VT_Womens_Maternity_Wrap_v1.dxf"
+    Vector_Layout: "VT_Womens_Maternity_Wrap_v1.svg"
+    Sizing_Grading: "Anatomical_Maternity_Dynamic_Expansion_Matrix"
+    Fabric_Specification: "100_Percent_Organic_Bamboo_Hemp_Swim_Interlock_Knit_340GSM"
+    Treatment: "Non_Toxic_Hydrophobic_Plant_Based_Water_Repellent"
+    Biomechanical_Rules:
+      Belly_Expansion: "Sliding_Overlapping_Torso_Bands_With_Organic_Wooden_Fasteners"
+      Nursing_Access: "Cross_Over_Bust_Panels_With_Lateral_Friction_Slide_Tracks"
+      Upward_Suspension: "3_Inch_Wide_100_Percent_Organic_Hemp_Rib_Knit_UnderBust_Band"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_607_Flatlock_Seam"
+      Thread_Specification: "100_Percent_Soft_Spun_Organic_Cotton_Core_Thread"
+      Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
