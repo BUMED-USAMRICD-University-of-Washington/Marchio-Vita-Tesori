@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Sovereign_6Point_Harness" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="1000px" height="1200px" viewBox="0 0 1000 1200" enable-background="new 0 0 1000 1200" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED HEAVY CANVAS LASER CUTTING BOUNDARY (RED LINE) -->
+	<!-- Broad multi-ply shoulder, waist, and low pelvic loop strap webbing panel networks -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M300,100h400l80,150L660,400l140,250v450H650 L500,750L350,1100H200V650l140-250L220,250Z"/>
+	
+	<!-- Forged Forged Brass Dorsal Triangle Attachment Plate Boundary (Back Riser Slot) -->
+	<polygon fill="none" stroke="#FF0000" stroke-width="2.5" points="450,220 550,220 500,300"/>
+	
+	<!-- 6-Point High-Tensile Quick-Release Friction Buckle Adjustment Ports -->
+	<rect x="280" y="220" fill="none" stroke="#FF0000" stroke-width="2" width="40" height="15" rx="1"/>
+	<rect x="680" y="220" fill="none" stroke="#FF0000" stroke-width="2" width="40" height="15" rx="1"/>
+	<rect x="180" y="620" fill="none" stroke="#FF0000" stroke-width="2" width="40" height="15" rx="1"/>
+	<rect x="780" y="620" fill="none" stroke="#FF0000" stroke-width="2" width="40" height="15" rx="1"/>
+	<rect x="230" y="950" fill="none" stroke="#FF0000" stroke-width="2" width="40" height="15" rx="1"/>
+	<rect x="730" y="950" fill="none" stroke="#FF0000" stroke-width="2" width="40" height="15" rx="1"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: SILVER-INFUSED HIGH-DENSITY LOCKSTITCH ARRAYS (BLUE DASHED LINE) -->
+	<!-- Graded 3-row parallel reinforcement stitch tracks enclosing the pure plant webbing layers -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M315,115h370l70,135L645,385 l135,240v410H665L500,775L335,1050H215V625l135-240L185,250Z"/>
+	<path fill="none" stroke="#00FFFF" stroke-width="1" stroke-dasharray="4,2" d="M325,125h350 M335,135h330"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO EMBROIDERY (PANTONE 16-0947 TCX GOLD EARTH) -->
+	<!-- The Master Chi-Rho (☧) Monogram, positioned on the front left sternum chest strap layer -->
+	<g transform="translate(-140, 150)">
+		<path fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M350,230l100,140 M450,230L350,370 M400,400V180 M400,180c60,0,60,90,0,90"/>
+	</g>
+</g>
+</svg>
