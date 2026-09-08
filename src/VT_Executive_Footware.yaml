@@ -1,0 +1,55 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+Line_Designation: "Sovereign_Executive_Footwear_Series"
+File_Format: "DXF-AAMA / ASTM (Universal Garment & Apparel Standard)"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+Global_Material_Mandate: "100_Percent_Organic_Plant_And_Bio_Protein_No_Lab_Synthetics"
+
+Product_Line_Balance:
+  Total_Seasonal_Count: 2
+  Gender_Ratio: "50/50_Equilibrium"
+
+Items:
+  - Product_ID: "VT_Mens_Executive_Shoe_v1"
+    Style: "Sovereign_Executive_Oxford"
+    Pattern_File: "VT_Mens_Executive_Shoe_v1.dxf"
+    Vector_Layout: "VT_Mens_Executive_Shoe_v1.svg"
+    Sizing_Grading: "Standard_USMC_Officer_Dress_Matrix"
+    Material_Composition:
+      Upper_Body: "60_Percent_Organic_Hemp_40_Premium_Bamboo_Cavalry_Twill"
+      Fabric_Weight: "380_GSM"
+      Internal_Lining: "100_Percent_Vatican_Supply_Bio_Silk"
+      Sole_Structure: "Multi_Layer_Vulcanized_Natural_Tree_Rubber"
+      Heel_Block: "Stacked_Natural_Rubber_Straight_90_Degree_Vertical"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Cap_Toe_Seam: "Double_Needle_Reinforced_Flat_Felled"
+      Branding_Layer:
+        Emblem: "Chi_Rho_☧_Monogram"
+        Thread: "Gold_Cellulose_Plant_Thread_High_Density"
+        Placement: "Center_Back_Heel_Counter_Spine"
+
+  - Product_ID: "VT_Womens_Executive_Shoe_v1"
+    Style: "Sovereign_High_Support_Angled_Heel_Pump"
+    Pattern_File: "VT_Womens_Executive_Shoe_v1.dxf"
+    Vector_Layout: "VT_Womens_Executive_Shoe_v1.svg"
+    Sizing_Grading: "Anatomical_Full_Curve_Comfort_Matrix"
+    Material_Composition:
+      Upper_Body: "60_Percent_Organic_Hemp_40_Premium_Bamboo_Cavalry_Twill"
+      Fabric_Weight: "380_GSM"
+      Internal_Lining: "70_Percent_Organic_Bamboo_30_Percent_Hemp_Mechanical_Stretch_Interlock"
+      Core_Shank: "High_Density_Rigid_Pressed_Hemp_Fiber_Ramp"
+      Outer_Sole: "Vulcanized_Natural_Tree_Rubber_High_Traction"
+    Biomechanical_Rules:
+      Forefoot_Box: "Wide_Graded_Anatomical_Zero_Squeeze_Envelope"
+      Weight_Distribution_Bias: "100_Percent_Metatarsal_Pad_Forward_Slip"
+      Heel_Seat_Geometry: "15_Degree_Forward_Pitch_Slanted_Top"
+      Anti_Rest_Mechanism: "Forced_Permanent_Slide_To_Pad_No_Calcaneus_Heel_Lock"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Under_Bust_Pad_Cushioning: "Multi_Layered_Bamboo_Viscose_Interlock_Nesting"
+      Branding_Layer:
+        Emblem: "Chi_Rho_☧_Monogram"
+        Thread: "Gold_Cellulose_Plant_Thread_High_Density"
+        Placement: "Interior_Instep_Arch_Lining_Facing_Upward"
