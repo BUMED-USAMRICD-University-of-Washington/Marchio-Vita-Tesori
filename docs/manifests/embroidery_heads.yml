@@ -1,0 +1,28 @@
+# ============================================================================
+# VITA TESORI BY VHALSUEO - AUTOMATED MANUFACTURING PARAMETERS
+# FILE: docs/manifests/embroidery_heads.yml
+# ============================================================================
+
+System_Matrix:
+  Industrial_Array: "Multi_Head_Rotary_CAM"
+  Target_Platform: "BUMED_Clinical_Everyday_Duty"
+  Fiber_Line_Lock: "100_Percent_Plant_Viscose_Hemp_No_Insect_Protein"
+
+Stitch_Profiles:
+  - Designation: "Signature_Of_God_Master_Seal"
+    Needle_Model: "San_1_Titanium_Ballpoint_80_12"
+    Thread_Core: "24K_Gold_Wire_Wrapped_Bamboo_Filament"
+    Velocity_RPM_Max: 540
+    Tension_Spindle_Grams: 95
+    Pull_Compensation: 18
+    Underlay_Pattern: "Double_Zig_Zag_With_Contour"
+    Stitch_Density_Points: 4.9
+
+  - Designation: "Staff_Uniform_9_Panel_Matrix"
+    Needle_Model: "Oversized_Ballpoint_RG_90_14"
+    Thread_Core: "Cellulose_Base_Metallic_Silver_Yarn"
+    Velocity_RPM_Max: 620
+    Tension_Spindle_Grams: 105
+    Pull_Compensation: 16
+    Underlay_Pattern: "Edge_Run_Only"
+    Stitch_Density_Points: 3.8
