@@ -1,0 +1,18 @@
+  - Product_ID: "VT_Womens_Calceus_TrueRamp_v1_NonSilk"
+    Style: "Sovereign_Historical_True_Ramp_Calceus"
+    Pattern_File: "VT_Womens_Calceus_TrueRamp_v1.dxf"
+    Vector_Layout: "VT_Womens_Calceus_TrueRamp_v1.svg"
+    Historical_Basis: "Ancient_Roman_Byzantine_Calceus_Mantle_Standard"
+    Incline_Architecture: "Singular_Continuous_Slope_Zero_Heel_Seat_Angle"
+    Biomechanical_Rules:
+      Forefoot_Box: "Wide_Graded_Anatomical_Zero_Squeeze_Envelope"
+      Weight_Distribution_Bias: "100_Percent_Metatarsal_Pad_Forward_Slip"
+    Material_Composition:
+      Upper_Body_Shell: "100_Percent_CIST_Biopharma_Vegetable_Tanned_Cowhide_Leather"
+      Internal_Lining: "100_Percent_Organic_Bamboo_Mechanical_Stretch_Interlock"
+      Core_Shank: "High_Density_Rigid_Pressed_Hemp_Fiber_Ramp"
+      Outer_Sole: "Vulcanized_Natural_Tree_Rubber_High_Traction"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
