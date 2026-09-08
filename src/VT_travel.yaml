@@ -1,0 +1,24 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+Line_Designation: "Sovereign_Aviation_And_Premium_Packaging_Series"
+File_Format: "DXF-AAMA / ASTM"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+
+Production_Files_Aviation_And_Packaging:
+  - File_Name: "VT_Mens_Pilot_Jacket_v1.dxf"
+    Material_Spec: "3.5_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Lining_Spec: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+    Cuff_Spec: "70_Bamboo_30_Hemp_Mechanical_Stretch_Interlock_340GSM"
+
+  - File_Name: "VT_Womens_Pilot_Jacket_v1.dxf"
+    Material_Spec: "3.5_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Bust_Contour_Architecture: "Princess_Line_3D_Overlapping_Panels"
+    Lining_Spec: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+
+  - File_Name: "VT_Milspec_Boot_Box_v1.dxf"
+    Material_Spec: "4.5_MM_Rigid_Pressed_Organic_Hemp_Fiberboard"
+    Outer_Wrap: "CIST_Biopharma_Vegetable_Tanned_Leather_Border_Trim"
+    Ventilation_Rule: "Dual_Side_Siped_Air_Release_Channels"
+
+  - File_Name: "VT_Womens_Heel_Box_v1.dxf"
+    Material_Spec: "4.5_MM_Rigid_Pressed_Organic_Hemp_Fiberboard"
+    Internal_Fitted_Fixture: "Molded_Bamboo_Cellulose_True_Ramp_Continuous_Wedge_Insert"
