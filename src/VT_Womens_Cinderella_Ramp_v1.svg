@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Sovereign_TrueRamp_Crystal_Slipper" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="1000px" height="800px" viewBox="0 0 1000 800" enable-background="new 0 0 1000 800" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED TRANS-CERAMIC LASER CUTTING BOUNDARY (RED LINE) -->
+	<!-- Maps the solid ALON monoblock outer shell, wide toe envelope, and integrated ankle strap routing slot -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M150,560L450,120l40,140l290,160c60,20,100,70,100,90
+		H740l-50-220L150,560Z"/>
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M740,420c30,25,70,60,100,100"/>
+	<!-- Heavy CIST Leather Ankle Strap Suspension Route Slot (Milled Core) -->
+	<rect x="220" y="320" fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" width="20" height="60" rx="3"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL CONTINUOUS SHANK & PAD CALIBRATION (BLUE DASHED LINE) -->
+	<!-- Highlights the unbroken 100% downward sliding ramp plane and the high-impact forefoot cushion zone -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M165,545L438,135l28,110
+		l272,173c38,15,67,52,67,77H765l-47-210Z"/>
+	<ellipse fill="none" stroke="#0000FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6,4" cx="700" cy="445" rx="45" ry="20"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER SIGNATURE OF GOD EMBROIDERY (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Etched over the clear side flank layer, functioning alongside our backend CIST firewall tags -->
+	<path fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M290,290l30,30 M320,290l-30,30 M305,330V280 M305,280c12,0,12,15,0,15"/>
+</g>
+</svg>
