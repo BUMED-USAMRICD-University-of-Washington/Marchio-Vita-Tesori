@@ -1,0 +1,25 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 1000" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED LEATHER MATERIAL CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Asymmetric Sculpted Military-Style Flap Holster Profile -->
+    <path d="M 250,120 L 550,120 C 580,120 580,200 550,350 L 420,900 L 280,900 L 220,350 Z" />
+    <!-- Overlapping Fold-Over Security Retention Flap Hinge Line -->
+    <path d="M 250,220 L 550,220" />
+    <!-- Rear Belt-Loop Pass Through Slot Coordinates (Dual-Strap Pattern) -->
+    <rect x="280" y="60" width="40" height="20" rx="2" />
+    <rect x="480" y="60" width="40" height="20" rx="2" />
+  </g>
+
+  <!-- LAYER 2: DOUBLE-NEEDLE LOCKSTITCH REINFORCEMENT MARGINS (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- Heavy-Duty 0.5-Inch Edge Stitch Guide for 4mm CIST Biological Leather -->
+    <path d="M 265,135 L 535,135 C 555,200 555,340 405,875 L 295,875 L 235,340 Z" />
+  </g>
+
+  <!-- LAYER 3: 24K GOLD CELLULOSE THREAD SEWING TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Centered cleanly on the front face of the main enclosure flap -->
+    <path d="M 360,150 L 440,210 M 440,150 L 360,210 M 400,230 L 400,135" />
+    <path d="M 400,135 C 415,135 415,165 400,165" stroke-width="6" />
+  </g>
+</svg>
