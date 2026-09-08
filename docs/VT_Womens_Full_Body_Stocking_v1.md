@@ -1,1 +1,4 @@
--   **Design Framework:** A full-coverage body glove extending from the ankles all the way up the neck to the jawline, including integrated full-length long sleeve vectors.-   **Branding Configuration:** This elite framework integrates dual branding coordinates: the gold **Chi-Rho logo** is positioned directly on the front central **neck** collar band, and a matching micro-logo is stitched cleanly **near the wrist** on the lower sleeve hemline panel.
+The Full Body Stocking (`VT_Womens_Full_Body_Stocking_v1.svg`)
+
+-   **Design Framework:** A full-coverage body glove extending from the ankles all the way up the neck to the jawline, including integrated full-length long sleeve vectors.
+-   **Branding Configuration:**This elite framework integrates dual branding coordinates: the gold **Chi-Rho logo** is positioned directly on the front central **neck** collar band, and a matching micro-logo is stitched cleanly **near the wrist** on the lower sleeve hemline panel.
