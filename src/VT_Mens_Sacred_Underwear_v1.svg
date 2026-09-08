@@ -1,0 +1,33 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1000 800" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED MATERIAL CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Main Compression Shorts Chassis Panels (Mid-Thigh Brief Silhouette) -->
+    <path d="M 200,100 L 800,100 L 840,450 L 620,450 L 620,320 C 580,300 420,300 380,320 L 380,450 L 160,450 Z" />
+    
+    <!-- 3D Suspended Pouch Structural Inset Outlines (Crescent Separation Seams) -->
+    <path d="M 420,100 C 430,220 400,320 500,320 C 600,320 570,220 580,100" stroke-width="1.5" />
+    
+    <!-- Extra Room Wide Seamless Crotch Gusset Panel Cut Bounds -->
+    <path d="M 380,320 Q 500,280 620,320 L 500,400 Z" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL SEAM ALLOWANCE & SUSPENSION MARGINS (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- 0.5-Inch Flatlock Assembly Margins for Heavy Mechanical Stretch Interlock -->
+    <path d="M 215,115 L 785,115 L 820,435 L 635,435 L 635,330 C 570,315 430,315 365,330 L 365,435 L 180,435 Z" />
+    
+    <!-- High-Tensile Hemp Rib-Knit Under-Bust Support Anchor Tracking Target -->
+    <path d="M 435,310 C 470,335 530,335 565,310" stroke-width="3" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- The Master Chi-Rho (☧) Signature of God Seal, Positioned on the Upper Left Waist Band -->
+    <g transform="translate(150, -280)">
+      <path d="M 120,410 L 150,440" />
+      <path d="M 150,410 L 120,440" />
+      <path d="M 135,450 L 135,400" />
+      <path d="M 135,400 C 147,400 147,418 135,415" stroke-width="5" />
+    </g>
+  </g>
+</svg>
