@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Armor_Companion_Bra" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<!-- Broad shoulder straps with an ultra-low, open deep-scoop sweetheart front lift sling -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M300,120h200l40,130l80,150l-60,150H240l-60-150
+		l80-150L300,120Z"/>
+	<!-- Deep center bust excavation cut path to ensure zero coverage over the overhang zone -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M260,250 C310,380 490,380 540,250"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
+	<!-- Graded 0.5-inch flat-felled seam channels engineered for pure plant mechanical compression -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M315,135h170l35,115l65,135
+		l-45,120H260l-45-120l65-135L315,135Z"/>
+	<!-- Dual-Layered Pure Hemp Rib-Knit High-Tensile Support Band Base Track -->
+	<path fill="none" stroke="#0000FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" d="M180,550 H620"/>
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO EMBROIDERY (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Positioned cleanly on the wide upper center-back racerback strap mesh -->
+	<path fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M370,480l60,60 M430,480l-60,60 M400,555V465 M400,465c15,0,15,30,0,30"/>
+</g>
+</svg>
