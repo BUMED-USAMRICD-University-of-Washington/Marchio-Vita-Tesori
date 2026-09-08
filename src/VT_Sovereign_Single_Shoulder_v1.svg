@@ -1,0 +1,35 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1000 1000" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED MATERIAL CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Broad Ergonomic Shoulder Harness Yoke Curve -->
+    <path d="M 350,150 C 400,100 600,100 650,150 C 700,200 650,300 550,300 C 450,300 300,200 350,150 Z" />
+    
+    <!-- Modular Single Flank Holster Shell Envelope -->
+    <path d="M 200,400 L 400,400 L 350,800 L 250,800 Z" />
+    
+    <!-- Heavy Duty Load-Bearing CIST Leather Suspension Straps -->
+    <path d="M 350,280 L 300,400 M 550,280 L 600,500" stroke-width="4" />
+    
+    <!-- Adjustable Brass Buckle Adjustment Hole Sequences -->
+    <circle cx="310" cy="340" r="3" /><circle cx="310" cy="360" r="3" /><circle cx="310" cy="380" r="3" />
+    <circle cx="580" cy="340" r="3" /><circle cx="580" cy="360" r="3" /><circle cx="580" cy="380" r="3" />
+  </g>
+
+  <!-- LAYER 2: DOUBLE-NEEDLE SADDLE STITCH MARGINS (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- 0.5-Inch Reinforced Graded Edge Border Channels -->
+    <path d="M 360,160 C 410,120 590,120 635,160 C 670,200 630,285 540,285 Z" />
+    <path d="M 215,415 L 385,415 L 340,785 L 265,785 Z" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- The Master Signature of God centered on the rear shoulder harness yoke intersection -->
+    <g transform="translate(100, -180)">
+      <path d="M 400,340 L 430,370" />
+      <path d="M 430,340 L 400,370" />
+      <path d="M 415,385 L 415,330" />
+      <path d="M 415,330 C 427,330 427,348 415,345" stroke-width="5" />
+    </g>
+  </g>
+</svg>
