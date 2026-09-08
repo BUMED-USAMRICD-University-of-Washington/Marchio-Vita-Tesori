@@ -1,0 +1,4 @@
+The Sovereign True-Ramp Signet Ring (`VT_Sovereign_Signet_v1.scad`)
+
+-   **Design Framework:** Inspired by the solid gold Roman Senator signet rings found across classical Italy and Egypt. It features a wide, un-squeezed structural band that flows smoothly into a flat, elevated oval bezel. [[1](https://www.google.com/search?q=product&prds=pvt:hg,productid:10599116924200956754,catalogid:13889676661538295083,mid:576462883150011234&ibp=oshop), [2](https://www.google.com/search?q=product&prds=pvt:hg,productid:18355081032943098093&ibp=oshop)]
+-   **Biomechanical Integrity:** The inner diameter of the ring shank is perfectly rounded and graded to fit comfortably without pinching the sides of the finger. The flat face provides an expanse ready for your high-density automated laser engraving heads to etch the **Chi-Rho (☧)** monogram cleanly into the solid gold face.
