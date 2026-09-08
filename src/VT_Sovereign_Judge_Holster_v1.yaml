@@ -1,0 +1,14 @@
+  - Product_ID: "VT_Sovereign_Judge_Holster_v1_NonSilk"
+    Style: "Sovereign_Taurus_Judge_Belt_Holster"
+    Pattern_File: "VT_Sovereign_Judge_Holster_v1.dxf"
+    Vector_Layout: "VT_Sovereign_Judge_Holster_v1.svg"
+    Chassis_Material_Spec: "5.0_MM_CIST_Biopharma_Vegetable_Tanned_Steer_Hide"
+    Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+    Biomechanical_Rules:
+      Cylinder_Clearance: "Wet_Molded_Contoured_Face_Prevents_Weapon_Sag_Or_Torque"
+      Muzzle_Terminal: "Open_Bottom_Debris_Clearance_Channel"
+      Security_Retention: "Rigid_Reinforced_Thumb_Break_With_Heavy_Brass_Snap"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
