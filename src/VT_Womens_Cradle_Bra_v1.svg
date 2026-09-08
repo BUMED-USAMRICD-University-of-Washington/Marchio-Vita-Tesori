@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Cradle_Bra" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M300,120h200l40,130l80,150l-60,150H240l-60-150
+		l80-150L300,120Z"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M315,135h170l35,115l65,135
+		l-45,120H260l-45-120l65-135L315,135Z"/>
+</g>
+<g id="Embroidered_Hand_Placements">
+	<!-- LAYER 3: INNER-FACING TEXTURED HAND RICAMO TARGETS (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Left and Right Lifting Hands mapped over inner lining cups with raised metatarsal nodes -->
+	<path fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M240,420 Q300,480 360,400 T400,280"/>
+	<path fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M560,420 Q500,480 440,400 T400,280"/>
+</g>
+</svg>
