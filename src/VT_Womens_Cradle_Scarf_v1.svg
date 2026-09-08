@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Cradle_Scarf" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="400px" height="1200px" viewBox="0 0 400 1200" enable-background="new 0 0 400 1200" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<!-- Elongated high-stretch wrapping panel matrix -->
+	<rect x="50" y="50" width="300" height="1100" rx="4" fill="none" stroke="#FF0000" stroke-width="2"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
+	<rect x="65" y="65" width="270" height="1070" fill="none" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4"/>
+</g>
+<g id="Exterior_PX_Logo">
+	<!-- LAYER 3A: OUTWARD-FACING DESIGNER PANEL (METALLIC GOLD CELLULOSE THREAD) -->
+	<g transform="translate(-250, 680)" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+		<path d="M 410,410 L 490,490 M 490,410 L 410,490 M 450,510 L 450,370" />
+		<path d="M 450,370 C 495,370 495,430 450,430" stroke-width="10" />
+	</g>
+</g>
+<g id="Interior_Cradle_Hands">
+	<!-- LAYER 3B: INWARD-FACING GROUNDING PANEL (SOFT ORGANIC COTTON SEWING PROFILE) -->
+	<!-- Sequential hands wrapping along the neck baseline interior lining path -->
+	<path fill="none" stroke="#606060" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,2" d="M150,300 c30-15,60-10,70,20 M170,280 c25-10,50-5,55,15 M190,260 c20-10,40,0,40,20"/>
+	<path fill="none" stroke="#606060" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,2" d="M150,600 c30-15,60-10,70,20 M170,580 c25-10,50-5,55,15 M190,560 c20-10,40,0,40,20"/>
+</g>
+</svg>
