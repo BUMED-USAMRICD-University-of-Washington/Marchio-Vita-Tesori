@@ -1,0 +1,29 @@
+Manufacturing_Package: "Vita_Tesori_Vhalsueo_Command_Line"
+File_Format: "DXF-AAMA / ASTM"
+Target_Repository: "BUMED-USAMRICD-University-of-Washington/Marchio-Vita-Tesori"
+Global_Material_Mandate: "100_Percent_Plant_Based_Organic_No_Silk_No_Lab_Synthetics"
+
+Production_Files_Hosiery_Upgrades:
+  - File_Name: "VT_Womens_Short_Long_Stockings_v1.dxf"
+    Style: "Sovereign_Short_And_Long_Hosiery_Kit"
+    Fabric_Spec: "85_Percent_Organic_Bamboo_15_Percent_Hemp_MicroMesh"
+    Branding_Coordinates:
+      Logo_Target: "Chi_Rho_☧_Monogram"
+      Anatomical_Placement: "Inner_Thighs"
+      Thread_Type: "Gold_Cellulose_High_Density"
+
+  - File_Name: "VT_Womens_Waist_Stockings_v1.dxf"
+    Style: "Sovereign_Waist_Stockings_Tights"
+    Access_Design: "Modular_Strap_Access_Pelvic_Fastening_Channels"
+    Fabric_Spec: "85_Percent_Organic_Bamboo_15_Percent_Hemp_MicroMesh"
+    Branding_Coordinates:
+      Logo_Target: "Chi_Rho_☧_Monogram"
+      Anatomical_Placement: "Middle_of_the_Back_Waistband"
+
+  - File_Name: "VT_Womens_Full_Body_Stocking_v1.dxf"
+    Style: "Sovereign_Full_Body_Glove_Stocking"
+    Fabric_Spec: "85_Percent_Organic_Bamboo_15_Percent_Hemp_MicroMesh"
+    Branding_Coordinates:
+      Logo_Target: "Chi_Rho_☧_Monogram"
+      Anatomical_Placement_A: "Front_Neck_Collar_Band"
+      Anatomical_Placement_B: "Sleeve_Hem_Near_the_Wrist"
