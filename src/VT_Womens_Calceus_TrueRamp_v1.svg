@@ -1,0 +1,36 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1000 750" width="100%" height="100%">
+  <!-- LAYER 1: AUTOMATED BIOLOGICAL MATERIAL CUTTING BOUNDARY (RED LINE) -->
+  <g id="Cutting_Boundary" stroke="#FF0000" stroke-width="2" fill="none">
+    <!-- Uninterrupted High Incline Calceus Upper and Wide Toe Box Contour -->
+    <path d="M 150,550 L 450,100 L 490,260 L 780,440 C 840,460 880,520 880,550 L 800,550 L 740,320 L 150,540 Z" />
+    
+    <!-- Wide Graded Toe Box Panel Path (Anatomical Splay Envelope) -->
+    <path d="M 780,440 C 810,465 850,505 880,550" stroke-width="1.5" />
+    
+    <!-- Traditional Crossed Leather Thong Eyelet Allocation Nodes -->
+    <circle cx="280" cy="360" r="5" />
+    <circle cx="340" cy="300" r="5" />
+    <circle cx="400" cy="240" r="5" />
+    <circle cx="460" cy="180" r="5" />
+  </g>
+
+  <!-- LAYER 2: INTERNAL CONTINUOUS SHANK MARGINS (BLUE DASHED LINE) -->
+  <g id="Seam_Allowance" stroke="#0000FF" stroke-width="1.5" stroke-dasharray="6,4" fill="none">
+    <!-- Graded Inset for the Solid Continuous-Ramp 100% Organic Pressed Hemp Shank Core -->
+    <path d="M 165,535 L 438,115 L 478,245 L 758,425 C 800,440 835,495 835,535 Z" />
+    
+    <!-- Metatarsal Pad Load Target Grid (100% Structural Force Focus) -->
+    <ellipse cx="700" cy="430" rx="42" ry="20" stroke-width="1.5" />
+  </g>
+
+  <!-- LAYER 3: CELLULOSE GOLD THREAD EMBROIDERY TARGET (METALLIC GOLD) -->
+  <g id="Gold_ChiRho_Logo" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- The Master Chi-Rho (☧) Signature of God, Positioned Elegantly on the Lateral Ankle Flap -->
+    <g transform="translate(10, 10)">
+      <path d="M 230,340 L 260,370" />
+      <path d="M 260,340 L 230,370" />
+      <path d="M 245,385 L 245,330" />
+      <path d="M 245,330 C 257,330 257,348 245,345" stroke-width="5" />
+    </g>
+  </g>
+</svg>
