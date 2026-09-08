@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Mens_Solid_Gold_Sandal" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="1000px" height="600px" viewBox="0 0 1000 600" enable-background="new 0 0 1000 600" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED 24K GOLD CASTING & LEATHER CUTTING BOUNDARY (RED LINE) -->
+	<!-- Heavy flat-pack gold chassis plate with an anatomically expanded forefoot rim -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M120,450 L160,260 C190,200 240,180 320,180 H460 L480,260 L760,400 C820,420 860,450 860,450 Z" />
+	<!-- CIST Leather Upper Cross-Strap Slots (Milled Passage Windows) -->
+	<rect x="220" y="190" fill="none" stroke="#FF0000" stroke-width="1.5" width="30" height="8" rx="1"/>
+	<rect x="380" y="185" fill="none" stroke="#FF0000" stroke-width="1.5" width="30" height="8" rx="1"/>
+	<rect x="680" y="370" fill="none" stroke="#FF0000" stroke-width="1.5" width="8" height="30" rx="1"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL SEAM MARGINS & COMFORT RIBBING (BLUE DASHED LINE) -->
+	<!-- Graded assembly boundaries for the organic bamboo-sateen under-footbed liner -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M135,435 L172,265 C200,212 245,195 322,195 H448 L465,265 L738,398 C780,415 815,435 815,435 Z" />
+</g>
+<g id="Gold_ChiRho_Logo">
+	<!-- LAYER 3: MASTER LOGO ENGRAVING TARGET (HIGH-DENSITY LASER PATHS) -->
+	<!-- The Master Chi-Rho (☧) Signature of God, laser-etched directly into the center heel block surface -->
+	<g transform="translate(-220, -10)">
+		<path fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M435,210l30,30 M465,210l-30,30 M450,250V200 M450,200c12,0,12,18,0,15"/>
+	</g>
+</g>
+</svg>
