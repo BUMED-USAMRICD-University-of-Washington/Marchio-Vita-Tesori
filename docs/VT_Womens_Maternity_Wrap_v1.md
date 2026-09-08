@@ -15,3 +15,11 @@ The chest area is engineered using a cross-over Roman tunic configuration. Two t
 3\. Zero-Elastic Upward Lift
 
 A 3-inch wide under-bust anchor band woven from ultra-dense **100% industrial hemp rib-knit** acts as an unyielding structural bridge. This holds the entire garment stationary against the thoracic wall, ensuring that when the bands are slid open or shifted to expose the anatomy, the structural upper support never sags or fails.
+
+The Rear-Opening Mechanical Architecture
+
+The lower chassis shifts away from standard fixed swimsuit leg loops, split into three independent structural elements:
+
+1.  **The High-Tensile Anchor Belt:** A wide waistband made from dense **100% industrial hemp rib-knit** sits locked over the pelvic crest, holding the garment stable against the torso.
+2.  **The Lateral Friction Slide Tracks:** The front panel extends into an elongated groin gusset that curves toward the rear, folding into a flat-felled tracking loop. The rear seat paneling is cut as a single fluid crescent that passes directly through this tracking loop.
+3.  **The Quick-Slide Rear Seat:** When the wearer needs to use the facilities, she can reach back and slide the flexible bamboo-hemp seat bands laterally out and toward her hip flanks in a single fluid motion. This exposes the entire rear completely while she sits. Once finished, she pulls the straps backward, snapping the seat panel back into the central track alignment.
