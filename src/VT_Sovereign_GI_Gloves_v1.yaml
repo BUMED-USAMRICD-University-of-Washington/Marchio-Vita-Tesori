@@ -1,0 +1,15 @@
+  - Product_ID: "VT_Sovereign_GI_Gloves_v1_NonSilk"
+    Style: "Sovereign_GI_MilSpec_Tactical_Gloves"
+    Pattern_File: "VT_Sovereign_GI_Gloves_v1.dxf"
+    Vector_Layout: "VT_Sovereign_GI_Gloves_v1.svg"
+    Sizing_Grading: "Standard_USMC_Tactical_Glove_Scale_Matrix"
+    Fabric_Specification: "100_Percent_CIST_Biopharma_Vegetable_Tanned_Leather_3.5MM"
+    Internal_PalmLining: "80_Percent_Organic_Bamboo_20_Percent_Silver_Infused_Hemp_Yarn"
+    Biomechanical_Rules:
+      Articulated_Knuckles: "Laser_Cut_Expansion_Gusset_Rows_Bypasses_Synthetic_Spandex"
+      Static_Dissipation: "Silver_Plated_Hemp_Palm_Bleeds_Charges_From_Beam_Saber_Hilts"
+      Anatomical_Splay: "Wide_Graded_Finger_Envelopes_Prevent_Phalangeal_Pinching"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Heavy_Duty_Lockstitch"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Hardware_Wrist_Lock: "Solid_Cast_Brass_Double_Loop_Pass_Through_Buckle"
