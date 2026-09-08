@@ -1,0 +1,13 @@
+  - Product_ID: "VT_Womens_Vegan_Stockings_v1_NonSilk"
+    Style: "Sovereign_Spandex_Free_Stay_Up_Hosiery"
+    Pattern_File: "VT_Womens_Vegan_Stockings_v1.dxf"
+    Vector_Layout: "VT_Womens_Vegan_Stockings_v1.svg"
+    Sizing_Grading: "Proportional_Thigh_High_Hosiery_Scale_Matrix"
+    Fabric_Specification: "85_Percent_Organic_Bamboo_Viscose_15_Percent_Fine_Hemp_MicroMesh"
+    Biomechanical_Rules:
+      Elastic_Inhibition: "Knit_Interlocking_Loop_Structure_Yields_40_Percent_Mechanical_Stretch"
+      Traction_Grip: "Parallel_Internal_Ribbons_of_Vulcanized_Natural_Tree_Rubber_Sap"
+      True_Ramp_Compliance: "Double_Knitted_Metatarsal_Pad_Cushioning_Prevents_Forward_Slippage"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_602_Coverstitch_For_Seamless_Toe_Closure"
+      Thread_Specification: "100_Percent_Soft_Spun_Organic_Cotton_Core_Thread"
