@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Hand_Cradle_Gloves" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<!-- Form-fitting, streamlined hand stocking chassis designed to fit snug beneath outer duty gear -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M260,630h280l15,-180l55,-140l-35,-45l-45,115
+		l-20,-165l-30,-20l-30,165l-20,-185l-30,-15l-35,185l-25,-155l-30,-15l-25,155l-25,-95l-30,15l30,145l60,115Z"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
+	<!-- Graded 0.15-inch flat-felled stitch paths to maximize internal skin-to-cloth contact smoothness -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M275,615h250l10,-165l50,-125
+		l-25,-35l-40,105l-20,-155l-25,-15l-30,155l-20,-175l-25,-10l-30,175l-25,-145l-25,-10l-20,145l-20,-85l-25,10l25,135l55,105Z"/>
+</g>
+<g id="Embroidered_Hand_Placements">
+	<!-- LAYER 3: INNER-FACING TEXTURED HAND RICAMO TARGETS (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Broad inner-facing handprint vectors spanning the entire internal palm and phalange lines -->
+	<!-- Specifying 3D puff foam raised calluses right below the finger intersections -->
+	<path fill="none" stroke="#D4AF37" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M290,450 Q350,510 410,430 T450,310"/>
+	<path fill="none" stroke="#D4AF37" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M320,420 Q370,470 420,400 T440,300"/>
+	<path fill="none" stroke="#D4AF37" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M350,390 Q390,440 430,370 T430,290"/>
+	<!-- Mapped raised callus padding targets matching your exact master scan coordinates -->
+	<ellipse fill="none" stroke="#D4AF37" stroke-width="3" cx="350" cy="460" rx="18" ry="8"/>
+</g>
+</svg>
