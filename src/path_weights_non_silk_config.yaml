@@ -79,6 +79,26 @@ Automated_Sewing_Head_Global_Settings:
     Symbol: "High_Density_Chi_Rho_Chrismon"        # Reconstructing master EPS asset for all-plant
     Trace_Type: "Heavy_Tatami_Fill_With_Satin_Border"
     Path_Weight_Points: 24.0                       # Heavy 2.4mm master column border
+
+  - Panel_ID: "VT_Sovereign_Gold_Talit_v1"
+    Fabric_Base: "65_Organic_Hemp_35_Bamboo_Gauze_280GSM"
+    Thread_Spec: "24K_Gold_Wire_Wrapped_Bamboo_Core_Filament"
+    Automated_Head_Adjustments:
+      Machine_Speed_RPM_Limit: 540                  # Significantly lowered to prevent wire kinking or snapping
+      Upper_Thread_Tension_Grams: 95               # Low tension parameters for uniform looping
+      Needle_Type: "San_1_Titanium_Ballpoint_80_12" # Friction-reducing surface to protect precious metal
+    Stitch_Parameters:
+      Atarah_Crown_Border:
+        Trace_Type: "Satin_Stitch"
+        Path_Weight_Points: 10.0                     # 1.0mm solid borders
+        Density_Stitches_Per_MM: 3.8
+        Pull_Compensation_Percent: 14
+      Main_Mantle_Stripes:
+        Trace_Type: "Heavy_Tatami_Fill"
+        Stitch_Length_MM: 3.8
+        Density_Stitches_Per_CM: 44
+        Underlay_Pattern: "Edge_Run_Only"          # Minimizes bulk to keep open-weave gauze fluid
+
     Underlay_Pattern: "Double_Zig_Zag_With_Contour" # Enhanced underlay to anchor to the mechanical-stretch base
     Density_Stitches_Per_MM: 4.9                   # Trimmed density to prevent thread breakage on non-silk layers
     Pull_Compensation_Percent: 18                  # Maximized to counter bamboo-hemp interlock shifting
