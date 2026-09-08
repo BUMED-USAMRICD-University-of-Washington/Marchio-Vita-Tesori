@@ -1,0 +1,16 @@
+  - Product_ID: "VT_Womens_Armor_Vest_v1_NonSilk"
+    Style: "Sovereign_UnderBust_Armor_Lifting_Vest"
+    Pattern_File: "VT_Womens_Armor_Vest_v1.dxf"
+    Vector_Layout: "VT_Womens_Armor_Vest_v1.svg"
+    Sizing_Grading: "Anatomical_Full_Curve_Lumbar_Support_Matrix"
+    Fabric_Specification: "4.0_MM_CIST_Biopharma_Vegetable_Tanned_Saddle_Leather"
+    Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+    Biomechanical_Rules:
+      Lumbar_Stabilization: "Rigid_Back_Brace_Vertical_Paneling_Enforces_Command_Posture"
+      Anatomical_Elevation: "Deep_Double_Crescent_UnderBust_Shelf_For_Bust_Overhang"
+      Blouse_Compatibility: "Low_Friction_Sateen_Lining_Allows_Fluid_UnderShirt_Slide"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_301_Lockstitch_Heavy_Duty"
+      Thread_Specification: "100_Percent_Pure_Hemp_Thread_30Weight"
+      Hardware_Closures: "Solid_Cast_Brass_Double_Claw_Buckle_Front_Matrix"
+      Security_Signature: "CIST_Firewall_Cross_Reference_ID_StTarget"
