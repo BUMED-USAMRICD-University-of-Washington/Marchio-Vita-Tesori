@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Cradle_Briefs" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="1000px" viewBox="0 0 800 1000" enable-background="new 0 0 800 1000" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M250,80h300l40,240l160,600H630L510,480v440H290 V480L170,920H50l160-600L250,80Z"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL COMPRESSION MARGINS (BLUE DASHED LINE) -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M265,95h270l35,225l150,565 H615L500,495v410H300V495L185,885H85l150-565L265,95Z"/>
+</g>
+<g id="Embroidered_Hand_Placements">
+	<!-- LAYER 3: INNER-FACING TEXTURED HAND RICAMO TARGETS (METALLIC GOLD CELLULOSE THREAD) -->
+	<!-- Lumbar Back Anchor Hand Target Block -->
+	<path fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M360,180 C400,240 400,120 400,140 M440,180 C400,240 400,120 400,140"/>
+</g>
+</svg>
