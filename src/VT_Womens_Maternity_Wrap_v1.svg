@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
-<svg version="1.1" id="Womens_Maternity_Wrap" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+<svg version="1.1" id="Womens_Maternity_Wrap_HighAccess" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
 	 width="800px" height="1000px" viewBox="0 0 800 1000" enable-background="new 0 0 800 1000" xml:space="preserve">
 <g id="Cutting_Boundary">
 	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
-	<!-- Main structural swimsuit style chassis outline with deep cross-over cuts -->
-	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M260,80h280l60,140l80,240l-80,200v260H200V660
-		l-80-200l80-240L260,80Z"/>
+	<!-- Lower Chassis modified into a modular, sliding three-panel open seat layout -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M260,80h280l60,140l80,240l-80,200v100H620
+		c-40,20-80,40-120,40s-80-20-120-40H200V660l-80-200l80-240L260,80Z"/>
 	
-	<!-- Upper Chest Sliding Cross-Over Diagonal Bands (Left and Right Separation Paths) -->
+	<!-- Upper Chest Sliding Cross-Over Nursing Bands -->
 	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M260,80 C340,240 440,360 600,460"/>
 	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M540,80 C460,240 360,360 200,460"/>
 	
 	<!-- Midsection Abdominal Sliding Panels (Horizontal Belly Bands) -->
-	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M120,460 L680,460 M120,560 L680,560 M120,660 L680,660"/>
+	<path fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" d="M120,460 L680,460 M120,560 L680,560"/>
+	
+	<!-- Sliding Rear Seat Panel Separation Path (Crescent Lateral Tracks) -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M200,660 C300,720 500,720 600,660"/>
 </g>
 <g id="Seam_Allowance">
 	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
-	<!-- Graded 0.5-inch flatlock margin zones engineered for multi-directional stretch recovery -->
 	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M275,95h250l50,125l70,225
-		l-70,185v245H225V645l-70-185l70-225L275,95Z"/>
+		l-70,185v90h-40c-35,15-65,30-100,30s-65-15-100-30h-40V645l-70-185l70-225L275,95Z"/>
 	
 	<!-- High-Tensile Under-Bust Hemp Support Band Routing Tracks -->
 	<path fill="none" stroke="#0000FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" d="M200,380 H600"/>
+	
+	<!-- Flat-Felled Lateral Slide Tracking Channels (Groin Gusset Pass-Through) -->
+	<path fill="none" stroke="#00FFFF" stroke-width="1.5" stroke-dasharray="4,2" d="M380,660 C380,700 420,700 420,660"/>
 </g>
 <g id="Gold_ChiRho_Logo">
 	<!-- LAYER 3: MASTER LOGO EMBROIDERY (METALLIC GOLD CELLULOSE THREAD) -->
-	<!-- Positioned on the left shoulder anchor panel, completely clear of any sliding paths -->
 	<path fill="none" stroke="#D4AF37" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M235,140l30,30 M265,140l-30,30 M250,185V115 M250,115c12,0,12,18,0,15"/>
 </g>
