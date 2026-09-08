@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Cradle_Cap" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<!-- Symmetrical, thick double-layered circular dome net template -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M250,450 C250,250 310,150 400,150 
+		c90,0 150,100 150,300 H550v150 H250 Z"/>
+	<!-- Graded Circular Base Opening Rim Path -->
+	<ellipse fill="none" stroke="#FF0000" stroke-width="1.5" stroke-miterlimit="10" cx="400" cy="600" rx="150" ry="40"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK SEAMS & NATURAL TRACTION MARGINS (BLUE DASHED LINE) -->
+	<!-- 0.5-Inch safety margin graded for heavy-duty 420 GSM interlock knit processing -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M265,445 C265,265 322,165 400,165 
+		c78,0 135,100 135,280 H535v140 H265 Z"/>
+	<!-- Internal wavy tracks for liquid tree rubber sap adhesion printing inside base rim -->
+	<path fill="none" stroke="#00FFFF" stroke-width="1.5" stroke-dasharray="4,2" d="M265,580 Q400,560 535,580 M265,595 Q400,575 535,595"/>
+</g>
+<g id="Embroidered_Hand_Placement">
+	<!-- LAYER 3: MASTER CRADLE HANDPRINT EMBROIDERY VECTOR (MUTED CELLULOSE THREAD) -->
+	<!-- Life-sized right hand footprint vectors stitched directly on the interior lining panel -->
+	<!-- Using multi-directional satin columns to simulate real-world phalangeal joint lines -->
+	<path fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M360,340 c40-20,80-10,95,30 M380,310 c35-15,70-5,80,25 M405,280 c25-15,50,0,55,30 M435,260 c20-10,40,5,40,25"/>
+	<!-- Mapped raised satin padding layers simulating the scan's metatarsal callus coordinates -->
+	<ellipse fill="none" stroke="#D4AF37" stroke-width="3" cx="370" cy="380" rx="20" ry="10"/>
+</g>
+</svg>
