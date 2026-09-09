@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Pelvic_Cradle_Briefs" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="1000px" viewBox="0 0 800 1000" enable-background="new 0 0 800 1000" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<!-- High-rise compression brief silhouette with an expanded, wide-base pelvic cradle gusset -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M250,80h300l40,240l160,350H630L510,670v150H290 V670L170,670H50l160-350L250,80Z"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
+	<!-- Graded 0.5-inch flatlock margin zones engineered for pure plant mechanical compression -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M265,95h270l35,225l150,315 H615L500,655v140H300V655L185,635H85l150-315L265,95Z"/>
+	
+	<!-- High-Tensile 3-Inch Wide Pure Hemp Rib-Knit Waist Support Band Base Track -->
+	<path fill="none" stroke="#0000FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" d="M250,140 H550"/>
+</g>
+<g id="Embroidered_Hand_Placements">
+	<!-- LAYER 3: INTERIOR-FACING TEXTURED PELVIC CRADLE HAND VECTOR (MUTED COTTON THREAD) -->
+	<!-- Mapped to wrap forward from the rear seat base, cupping the pelvic floor and perineal quadrants -->
+	<!-- Right Hand print executing a wide upward cradle coming from behind through the crotch track -->
+	<path fill="none" stroke="#D4AF37" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M400,680 C360,540 380,420 400,380 M400,660 C370,530 380,430 410,390 M400,640 C380,520 380,440 420,400"/>
+	<!-- Mapped raised satin padding layers simulating the scan's metatarsal callus coordinates -->
+	<ellipse fill="none" stroke="#D4AF37" stroke-width="3" cx="400" cy="520" rx="12" ry="25"/>
+</g>
+</svg>
