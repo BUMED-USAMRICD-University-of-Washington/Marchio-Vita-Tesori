@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://w3.org">
+<svg version="1.1" id="Womens_Rear_Cradle_Bra" xmlns="http://w3.org" xmlns:xlink="http://w3.org" x="0px" y="0px"
+	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<g id="Cutting_Boundary">
+	<!-- LAYER 1: AUTOMATED FABRIC CUTTING BOUNDARY (RED LINE) -->
+	<!-- Wide lateral wings with an ultra-scoop open neckline designed to frame and lift the bust from behind -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M260,100h280l40,140l100,160l-80,140H200l-80-140
+		l100-160L260,100Z"/>
+	<!-- Low-cut center gore excavation path matching the dual-crescent root line of the armor vest -->
+	<path fill="none" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" d="M220,240 C300,380 500,380 580,240"/>
+</g>
+<g id="Seam_Allowance">
+	<!-- LAYER 2: INTERNAL FLATLOCK ASSEMBLY MARGINS (BLUE DASHED LINE) -->
+	<!-- Graded 0.5-inch flat-felled seam channels engineered for pure plant mechanical compression -->
+	<path fill="none" stroke="#0000FF" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="6,4" d="M275,115h250l35,125l85,145
+		l-65,110H220l-65-110l85-145L275,115Z"/>
+	<!-- Dual-Layered Pure Hemp Rib-Knit High-Tensile Support Band Base Track (2.5-Inch Wide) -->
+	<path fill="none" stroke="#0000FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,2" d="M140,520 H660"/>
+</g>
+<g id="Embroidered_Hand_Placements">
+	<!-- LAYER 3: REAR-FORWARD EMBRACING HAND VECTOR TARGETS (MUTED COTTON THREAD) -->
+	<!-- Mapped to wrap forward from the lateral chest wall, cupping the lower and outer quadrants of the bust -->
+	<!-- LEFT CUP: Right Hand print executing a wide upward grab from the side flank -->
+	<path fill="none" stroke="#D4AF37" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M160,380 C240,440 280,320 340,300 M180,360 C250,420 280,310 330,290 M200,340 C260,400 280,300 320,280"/>
+	<ellipse fill="none" stroke="#D4AF37" stroke-width="3" cx="210" cy="380" rx="18" ry="9"/>
+	
+	<!-- RIGHT CUP: Left Hand print executing a wide upward grab from the side flank -->
+	<path fill="none" stroke="#D4AF37" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M640,380 C560,440 520,320 460,300 M620,360 C550,420 520,310 470,290 M600,340 C540,400 520,300 480,280"/>
+	<ellipse fill="none" stroke="#D4AF37" stroke-width="3" cx="590" cy="380" rx="18" ry="9"/>
+</g>
+</svg>
