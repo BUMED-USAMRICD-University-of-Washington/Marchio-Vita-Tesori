@@ -1,0 +1,15 @@
+  - Product_ID: "VT_Womens_Pelvic_Cradle_Briefs_v1_NonSilk"
+    Style: "Sovereign_Pelvic_Cradle_Support_Briefs"
+    Pattern_File: "VT_Womens_Pelvic_Cradle_Briefs_v1.dxf"
+    Vector_Layout: "VT_Womens_Pelvic_Cradle_Briefs_v1.svg"
+    Sizing_Grading: "Anatomical_Pelvic_Floor_Rear_Embrace_Cradle_Matrix"
+    Fabric_Specification: "75_Percent_Organic_Bamboo_25_Percent_Hemp_Heavy_Interlock_340GSM"
+    Internal_Lining: "100_Percent_Organic_Pure_Bamboo_Viscose_Sateen_Weave"
+    Biomechanical_Rules:
+      Pelvic_Integration: "Rear_Forward_Stitch_Vector_Origins_From_Lumbar_Seat_Base"
+      Crotch_Elevation: "Central_Right_Hand_Palm_Forces_Anatomical_Upward_Lift"
+      Friction_Reduction: "Frictionless_Sateen_Lining_Prevents_Chafing_Under_Tactical_Trousers"
+      Lower_Suspension: "3.0_Inch_Wide_100_Percent_Organic_High_Density_Hemp_Rib_Knit_Waistband"
+    Assembly_Parameters:
+      Stitch_Class: "ISO_4915_Class_607_Flatlock_Seam"
+      Thread_Specification: "100_Percent_Soft_Spun_Organic_Cotton_Core_Thread"
